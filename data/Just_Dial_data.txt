@@ -1,0 +1,653 @@
+{"contact1":"+(91)-11-46106000","address":"   29-A, Fiitjee House, Kalu Sarai-Sarvapriya Vihar, Delhi - 110016, Near Hauz Khas Bus Terminal","contact3":"46106013","contact2":"46106010","name":" Fiitjee Limited (Head Office)","contact5":"26525355","contact4":"46106015"}
+{"contact1":"+(91)-11-31922222","address":"   41 A, Ground Floor, Kalu Sarai-Sarvapriya Vihar, Delhi - 110016","contact3":"32020563","contact2":"32637290","name":" Resonance Eduventures Pvt Ltd","contact5":"60606607","contact4":"60606602"}
+{"contact1":"+(91)-120-4754800","address":"   B-4, Sector 16, Noida - 201301, Near Axis Bank, Oppsite Metro Station Sector 16","contact3":"4754814","contact2":"4754811","name":" Fiitjee Limited","contact5":"4754804","contact4":"4754802"}
+{"contact1":"+(91)-124-3217791","address":"   C-1/B, Mg Road, Sector 14, Gurgaon - 122001, Old Dlf Colony, Above Liberty Showroom","contact3":"3208660","contact2":"4104930","name":" Narayana IIT  Academy","contact5":"3224419","contact4":"3217792"}
+{"contact1":"+(91)-11-22750043","address":"   E-32, Mayur Vihar Phase 1, Delhi - 110091, Near Ahlcon International School, Patparganj Village","contact3":"43061644","contact2":"22750052","name":" Narayana Iit Academy","contact5":"22750025","contact4":"43061645"}
+{"contact1":"+(91)-11-46203401","address":"   K-11, South Extension 1, Delhi - 110049, Near Nalli Saree Showroom","contact3":"43123234","contact2":"46203456","name":" Aakash Institute","contact5":"39454545","contact4":"43123200"}
+{"contact1":"+(91)-9810157918","address":"   13/5, Basement, West Patel Nagar, Delhi - 110008","contact3":"9212427918","contact2":"9810679396","name":" Dawars Trust Academy","contact4":"9212451192"}
+{"contact1":"+(91)-9717572634","address":"   145, Bhagat Singh Market, Connaught Place, Delhi - 110001, Near Bangla Sweets","contact3":"9311140034","contact2":"9899379978","name":" Genius 20","contact4":"9717346957"}
+{"contact1":"+(91)-11-45261201","address":"   2530,First Floor, Gtb Nagar, Delhi - 110009, Hudson Lane","contact3":"45261203","contact2":"45261202","name":" Time Institute","contact4":"45261204"}
+{"contact1":"+(91)-11-46014522","address":"   65-A, Upper Ground Floor, Ompro Tower, Kalu Sarai-Sarvapriya Vihar, Delhi - 110016, Near Hauz Khas Metro Station","contact3":"46061360","contact2":"46014523","name":" Time Institute","contact4":"46080359"}
+{"contact1":"+(91)-11-45221191","address":"   Aggarwal Corporate Heights, 3rd Floor, Plot Number A- 7, Netaji Subhash Place Complex-Pitampura, Delhi - 110034, Opposite Wazirpur Depot","contact3":"45221193","contact2":"45221192","name":" Vidyamandir Classes (Corporate Office)","contact4":"45221190"}
+{"contact1":"+(91)-8882483956","address":"   B-30, Sec.6, Noida, Noida HO, Noida - 201301, Noida Metro Station Sec,15","contact3":"7065126947","contact2":"8882485461","name":" AVENTURES INSTITUTE OF STUDIES","contact4":"7827774108"}
+{"contact1":"+(91)-11-25419781","address":"   B-65, Ramesh Nagar, Delhi - 110015, Opposite Metro Pillar No 347","contact3":"25109781","contact2":"25419782","name":" Vidya Niketan","contact4":"25109782"}
+{"contact1":"+(91)-11-27554777","address":"   Csc-9,41-42, Rohini Sector 13, Delhi - 110085, Behind Goodwill Apparments, Dda Market","contact3":"27554779","contact2":"27554778","name":" Sahil Study Circle","contact4":"64656688"}
+{"contact1":"+(91)-11-26964140","contact2":"26524806","name":" Mothers International","contact3":"26854512","address":"   1, Aurbindo Marg, Adchini, Hauz Khas, Delhi - 110016, Opposite Jeet Cinema"}
+{"contact1":"+(91)-8750875077","contact2":"9811119938","name":" Access to Success","contact3":"9873306400","address":"   11, Saraswati Vihar-Pitampura, Delhi - 110034, Shakti Vihar"}
+{"contact1":"+(91)-9654059379","contact2":"9015715715","name":" Dilli Home Tutors","contact3":"9015615615","address":"   11/6B, Shanti Chambers, Opp Metro Pillar No-133,Pusa Road, Pusa, Delhi - 110012, B.L. Kapoor Hospital"}
+{"contact1":"+(91)-11-60606603","contact2":"60606605","name":" Resonance Eduventures Pvt Ltd","contact3":"60606604","address":"   14, First Floor, Mayur Vihar Phase 1, Delhi - 110091, Pratap Nagar, Near Jeevan Anmol Hospitalz"}
+{"contact1":"+(91)-11-28035963","contact2":"28035964","name":" Fiitjee Limited","contact3":"28035965","address":"   1st Floor, Pankaj Galaxy, Plot No-9, Dwarka Sector 12, Delhi - 110078, Near Bal Bhawan School"}
+{"contact1":"+(91)-9871037511","contact2":"9811237511","name":" Aarti Tutorials & Institute","contact3":"9810156813","address":"   28/2, Aarti Building, Ashok Nagar, Delhi - 110018, Behind Tilak Nagar Police Station"}
+{"contact1":"+(91)-11-45063080","contact2":"25848182","name":" Sachdeva New PT College","contact3":"25848070","address":"   29, Main Patel Road, South Patel Nagar, Delhi - 110008, Opposite Metro Pillar No-169"}
+{"contact1":"+(91)-120-6515950","contact2":"6900180","name":" Study Mate","contact3":"4216523","address":"   2nd Floor, Kshitij Complex, Vaishali Sector 4, Ghaziabad - 201010, Opposite Nainital Bank,Opposite Sarvodaya Hospital,Main Market,Near Nazer Restaurant"}
+{"contact1":"+(91)-8826833731","contact2":"8826833831","name":" Samarpan IAS Academy","contact3":"8826755931","address":"   306, 3rd Floor, Satija House, Dr Mukherjee Nagar, Delhi - 110009, In Front Of Post Office"}
+{"contact1":"+(91)-9899729696","contact2":"9999506061","name":" Sachdeva Coaching Institute","contact3":"9313709357","address":"   3130, Mahindra Park, Rani Bagh, Delhi - 110034, Near Kapil Body Temple"}
+{"contact1":"+(91)-9999052200","contact2":"9999786687","name":" R2S Academy","contact3":"9811786687","address":"   317,Aggarwal Prestige Mall, Pitampura, Delhi - 110034, Near M2k Mall"}
+{"contact1":"+(91)-11-47064000","contact2":"47064009","name":" Fiitjee Limited","contact3":"46106010","address":"   367, 2nd & 3rd Floor, Pitampura, Delhi - 110034, Kohat Enclave, Near Kohat Metro Station, Beside Allahabad Bank"}
+{"contact1":"+(91)-11-47244724","contact2":"25262543","name":" Turning Point Institute Pvt Ltd","contact3":"25278795","address":"   3rd Floor, Ram House, Jawala Heri Market, Paschim Vihar, Delhi - 110063"}
+{"contact1":"+(91)-9811131872","contact2":"9899749364","name":" Saraswati Institute","contact3":"9711950058","address":"   4206, 2nd Floor, Rani Bagh, Delhi - 110034, Sant Nagar"}
+{"contact1":"+(91)-11-23856633","contact2":"23850123","name":" Genius Students Academy","contact3":"23855566","address":"   69-Ub, Jawahar Nagar, Kamla Nagar, Delhi - 110007, Opposite lane bindals"}
+{"contact1":"+(91)-11-41081111","contact2":"46072392","name":" Fountain Intl Coaching Institute","contact3":"41042548","address":"   7/C, Taimoor Nagar-Friends Colony East, Delhi - 110065, Near Gurudwara"}
+{"contact1":"+(91)-9212555535","contact2":"8800924101","name":" Paul Education Point","contact3":"8750243149","address":"   A-2/64, Phase - 5, Gali No. 14, Aya Nagar, Delhi - 110047, Near Arjungarh Metro Station / Near Kali Mandir"}
+{"contact1":"+(91)-9990100686","contact2":"9911011438","name":" TIMES INSTITUTE OF ENGINEERING AND MANAGEMENT","contact3":"9911011538","address":"   A-245, Devli Road, Khanpur, Delhi - 110062, Near Ambe Bajaj"}
+{"contact1":"+(91)-9811793804","contact2":"+(91)-9891173804","name":" Lakshi Academy","contact3":"+(91)-9654963335","address":"   B 53, First Floor, Sharda Puri, Ramesh Nagar, Delhi - 110015, Near Radhey Shyam Mandir"}
+{"contact1":"+(91)-9911204002","contact2":"9911204074","name":" Vidya Mandir Commerce Classes","contact3":"9136801801","address":"   B-172, MOHAN GARDEN, RAMA PARK ROAD, Dwarka, Delhi - 110075, Metro Station Pillar No -764"}
+{"contact1":"+(91)-11-25277880","contact2":"25277885","name":" Mothers Mount Regd Mount Coaching Academy","contact3":"42345345","address":"   B-3/219, Paschim Vihar, Delhi - 110063"}
+{"contact1":"+(91)-11-25528117","contact2":"25528116","name":" Maharaja Surajmal Institute Of Pharmacy & Tech","contact3":"25552667","address":"   C-4, Janakpuri, Delhi - 110058, fir statiom"}
+{"contact1":"+(91)-11-65094645","contact2":"65186332","name":" Friends Tuition Centre","contact3":"65108494","address":"   D-55, 3rd Floor, Main Road, East Of Kailash, Delhi - 110065, Near M Cinemas"}
+{"contact1":"+(91)-120-2820004","contact2":"2820005","name":" Fiitjee Limited","contact3":"2820006","address":"   D-6 & D-7, Raj Nagar, Ghaziabad - 201002, Raj Nagar District Centre, Opposite Telephone Exchange"}
+{"contact1":"+(91)-11-46052731","contact2":"46052732","name":" Narayana Iit Academy","contact3":"41648330","address":"   E-14, 3rd & 4th Floor, South Extension 2, Delhi - 110049, Main Market, Above Oriantel Bank Of Commerce"}
+{"contact1":"+(91)-9136244554","contact2":"9250318283","name":" Skyline Tutorial","contact3":"9811229946","address":"   E-97, PNB Internal Road, Shastri Nagar (N), Delhi - 110052, Near PNB"}
+{"contact1":"+(91)-9811678111","contact2":"9810002593","name":" Sumit Coaching Centre","contact3":"9910178111","address":"   East Patel Nagar, Delhi - 110008"}
+{"contact1":"+(91)-9810396462","contact2":"9810397667","name":" Sankalp Academy","contact3":"9540236791","address":"   F9 Main Road, Katwaria Sarai, Delhi - 110016, Behind Mother Dairy"}
+{"contact1":"+(91)-9811117788","contact2":"9911117788","name":" Inspiration Tutorial","contact3":"9250992509","address":"   J 8/ 134, Rajouri Garden, Delhi - 110027, Nr Ajay Makan House"}
+{"contact1":"+(91)-9268308753","contact2":"9268308754","name":" Bhumika Films & Media Institute","contact3":"8285204070","address":"   Media House, Building Number 28, Block H, Bengali Sweets Lane, South Extension 1, Delhi - 110049"}
+{"contact1":"+(91)-9999858239","contact2":"9990488500","name":" Megara Infotech Pvt Ltd","contact3":"9999946938","address":"   Nm-29, First Floor, Old Dlf Colony, Sector 14, Gurgaon - 122001, Near Krishna Bajaj"}
+{"contact1":"+(91)-11-22757109","contact2":"41253997","name":" Sri Chaitanya Institute","contact3":"42153997","address":"   P-11, Acharya Niketan Road, Mayur Vihar Phase 1, Delhi - 110091, Pandav Nagar, Near Sheetla Mata Mandir"}
+{"contact1":"+(91)-11-64788502","contact2":"64788510","name":" Study Mate","contact3":"42175844","address":"   Plot No-15, Classic Airport Tower Mlu, Dwarka Sector 10, Delhi - 110075, Above Andhra Bank , Opposite Sports Complex"}
+{"contact1":"+(91)-9582646515","contact2":"9582646507","name":" SmartPrep Education Pvt Ltd","contact3":"9582646512","address":"   Plot o 142 Ist floor, above ramyond showroom ,Sector-8, Rohini, Delhi - 110085, Near by rohini east metro station"}
+{"contact1":"+(91)-11-65394980","contact2":"47094073","name":" Gautam Institute","contact3":"27867459","address":"   R G Complex 2 , 2 nd Floor, Rohini Sector 14, Delhi - 110085, Behind St Margret School, Prashant Vihar"}
+{"contact1":"+(91)-129-2245280","contact2":"2213888","name":" Saha Institute Of Management & Technology","contact3":"4055280","address":"   Scf-40, Sector 3, Faridabad - 121004, Huda Market, Above HDFC Bank"}
+{"contact1":"+(91)-11-22432757","contact2":"43632744","name":" CA Ashish Karla''s Igp","contact3":"41572757","address":"   Shakarpur, Delhi, Main Road, Shakarpur, Delhi - 110092"}
+{"contact1":"+(91)-11-60606601","contact2":"60606606","name":" Resonance Eduventures Pvt Ltd","contact3":"31922224","address":"   Shop No 10,Ground Floor, Main Market Road , West Punjabi Bagh, Delhi - 110026, icici bank"}
+{"contact1":"+(91)-9211651945","contact2":"9811840039","name":" Gupta Tutorials","contact3":"9811471039","address":"   Shop No B-127/16, Sector 41, Noida - 201303, Near Metro City Centre"}
+{"contact1":"+(91)-11-45062651","contact2":"45062652","name":" Narayana Iit Academy","contact3":"45062653","address":"   Shop No. 2/40-15, Main Road, West Punjabi Bagh, Delhi - 110026, Near Golf Course"}
+{"contact1":"+(91)-11-27466246","contact2":"42283187","name":" Disha Classes","contact3":"27221300","address":"   bldng no. 13,1st Floor, Ashok Vihar 1, Delhi - 110052, Central Market (Deep Market)"}
+{"contact1":"+(91)-11-26425313","contact2":"26210762","name":" Paul Coaching Centre","address":"   1/47, Old Double Story, Lajpat Nagar 4, Delhi - 110024, Near SAI Mandir"}
+{"contact1":"+(91)-9958334586","contact2":"9582300228","name":" Aggarwal Academy","address":"   107 DDA FLAT, Nr B2 MARKET, Safdarjung Enclave, Delhi - 110029, RAM MANDIR"}
+{"contact1":"+(91)-11-22548324","contact2":"65364573","name":" Saraswati Coaching Centre","address":"   114, Krishna Nagar, Delhi - 110051, Gopal Park"}
+{"contact1":"+(91)-9871156213","contact2":"9212600232","name":" Matrix Plus Institute","address":"   132,Kingsway Camp, Gtb Nagar, Delhi - 110009, Gtb metro station gate no.4"}
+{"contact1":"+(91)-11-64788513","contact2":"69413295","name":" Study Mate","address":"   15,Basement, Pitampura, Delhi - 110034, Engineer Enclave,Opposite Jhule LAL Apartments"}
+{"contact1":"+(91)-11-69413291","contact2":"69413297","name":" Study Mate","address":"   1st Floor, A-29, Ashok Vihar, Delhi - 110052, A Block,Above Dena Bank"}
+{"contact1":"+(91)-11-69413290","contact2":"69413296","name":" Study Mate","address":"   1st Floor, Am-10, Shalimar Bagh, Delhi - 110088, Above Corporate Bank,Am Block"}
+{"contact1":"+(91)-9899773255","contact2":"9910398167","name":" KUMON South City-1","address":"   1st Floor, Sco 36, HUDA Market, Sector 31, Gurgaon - 122001"}
+{"contact1":"+(91)-9312154421","contact2":"9811231199","name":" JPS Educators","address":"   2/2, Block Number 41, Clock Tower, Singh Sabha Road, Kamla Nagar, Delhi - 110007, Behind Amba Cinema"}
+{"contact1":"+(91)-11-45621724","contact2":"45621725","name":" Narayana Iit Academy","address":"   201A, 2nd Floor, Dimension Durga Tower, Plot No-10, Dwarka Sector 4, Delhi - 110078, Main Market"}
+{"contact1":"+(91)-9873010100","contact2":"9654010100","name":" Bhaskar Study Circle","address":"   209, 2nd Flr, Karol Bagh, Delhi - 110005, 32 Park Area"}
+{"contact1":"+(91)-9810052388","contact2":"9810092004","name":" Adhyayan Academy","address":"   24,Ground Floor, Arjun Nagar, Safdarjung Enclave, Delhi - 110029, Near Sukhmani Hospital, Behind Green Park"}
+{"contact1":"+(91)-11-26882627","contact2":"26882052","name":" Hits","address":"   289, Satya Niketan, Delhi - 110021, Opp Venky College"}
+{"contact1":"+(91)-11-24675793","contact2":"24677731","name":" NES academy","address":"   294,Satya Niketan,3rd Floor, Satya niketan, Satya Niketan, Delhi - 110021, Near Venkateshwara Collage"}
+{"contact1":"+(91)-9013330667","contact2":"9953558935","name":" Knowledge Institute","address":"   2a/48, Ramesh Nagar, Delhi - 110015, Single Storey, Near Gol Chakkar"}
+{"contact1":"+(91)-11-64788505","contact2":"69413305","name":" Study Mate","address":"   2nd Floor, Paschim Vihar, Delhi - 110063, Above Richlook, Jwalaheri Market"}
+{"contact1":"+(91)-11-23272311","contact2":"23252311","name":" Bright Vision Acadmey","address":"   3001, Kucha Neelkanth, Darya Ganj, Delhi - 110002, Behind post office"}
+{"contact1":"+(91)-9891067390","contact2":"9891457390","name":" ULTIMATE MATHEMATICS","address":"   301,3rd Flr, Rohini, Delhi - 110085, Nr D C Chowk, Sec-9. Vikas Surya Plaza"}
+{"contact1":"+(91)-9999990138","contact2":"9811137603","name":" ABC institute of commerce","address":"   33, First Floor, Central Market Ashok Vihar, Ashok Vihar, Delhi - 110052, Near Ashok Vihar Police Station"}
+{"contact1":"+(91)-8506008883","contact2":"+(91)-8506008884","name":" Florence Education & Business","address":"   374, 3rd Floor, Kohat Enclave, Main Pitampura Metro Road, Pitampura, Delhi - 110034"}
+{"contact1":"+(91)-11-41828089","contact2":"46043741","name":" THE GUIDANCE","address":"   58/1, Kalu Sarai, Kalu Sarai-Sarvapriya Vihar, Delhi - 110016, Opposite Sarvpriya Vihar"}
+{"contact1":"+(91)-9911818666","contact2":"9871168724","name":" Isucceed Education Bureau","address":"   6 B/39, Ramesh Nagar, Delhi - 110015"}
+{"contact1":"+(91)-9211817580","contact2":"9311154852","name":" Pace Institute","address":"   6/91,A-2,Tirmulla Apartment, Rajendra Nagar Sector 2, Ghaziabad - 201005, Near Dav School"}
+{"contact1":"+(91)-9811678111","contact2":"9810178111","name":" Sumit Coaching Centre","address":"   7 A/8, Karol Bagh, Delhi - 110005, W E A,China Mkt,Bh Pusa Rd & Telephone Exch"}
+{"contact1":"+(91)-8510009382","contact2":"9810107434","name":" Ajay Dang Classes","address":"   703, SG Mall, Rohini Sector 9, Delhi - 110085, DC Chowk"}
+{"contact1":"+(91)-9811107762","contact2":"9811477236","name":" Ngc Institute","address":"   75, Pitampura, Delhi - 110034, Opp Rashmi Apts,Shakti Vihar"}
+{"contact1":"+(91)-11-25408476","contact2":"65453191","name":" Oxford College","address":"   80,Meenakshi Garden, Behind Subhash Nagar Metro Station, Tilak Nagar, Delhi - 110018"}
+{"contact1":"+(91)-9810849525","contact2":"9711276869","name":" Divine Tuition Bureau","address":"   80/33, Malviya Nagar, Delhi - 110017, Near Gurudwara"}
+{"contact1":"+(91)-9818837853","contact2":"+(91)-9818833853","name":" Excellent Home Tutors","address":"   97, Balaji IAS Academy, Ambedkar Road, Ghaziabad - 201001, Near Kalka Garhi Chowk"}
+{"contact1":"+(91)-11-22094975","contact2":"22004285","name":" Kreative Arts Multimedia And Education","address":"   A 1/7, Chhachi Building, LAL Quarter, Satnam Road, Krishna Nagar, Delhi - 110051, Opposite Honda Service Centre"}
+{"contact1":"+(91)-9899633348","contact2":"9711664665","name":" Tute Station","address":"   A 12, Ashok Vihar 1, Delhi - 110052, Near Deep Market"}
+{"contact1":"+(91)-11-22756896","contact2":"22756897","name":" Aakash Institute","address":"   A-1, , Mayur Vihar Phase 1, Delhi - 110091, Near Sagar Ratna, Acharya Niketan Market, near alcom public School"}
+{"contact1":"+(91)-11-40571917","contact2":"40581916","name":" SACHDEVA NEW PT COLLEGE","address":"   A-1/17, basement, Janakpuri, Delhi - 110058, Opposite metro pillar no. 636"}
+{"contact1":"+(91)-11-43151233","contact2":"26179083","name":" Agarwal Study Centre","address":"   A-1/299, Safdarjung Enclave, Delhi - 110029, Near Aiims Trauma Center"}
+{"contact1":"+(91)-11-64157852","contact2":"45531980","name":" Bright Career College Of Competitions","address":"   A-3/6 First Floor, Paschim Vihar, Delhi - 110063, Opp Axis Bank"}
+{"contact1":"+(91)-9873156568","contact2":"9716137000","name":" Aastha college","address":"   A-4/148, 1st Floor, Rohini Sector 4, Delhi - 110085, Opposite Mother Divine Public School"}
+{"contact1":"+(91)-11-25254392","contact2":"25281299","name":" Vishal Coaching Classes","address":"   A-5/330, Paschim Vihar, Delhi - 110063"}
+{"contact1":"+(91)-11-32920033","contact2":"32920066","name":" Resonance Eduventures Pvt Ltd","address":"   A1/32,Lower Ground Floor, Janakpuri, Delhi - 110058"}
+{"contact1":"+(91)-9212391230","contact2":"+(91)-9891684541","name":" Disha Academy","address":"   A3/13a, Green Appartments, Paschim Vihar, Delhi - 110063, Opposite Jwala Heri Market"}
+{"contact1":"+(91)-11-45616600","contact2":"45616601","name":" Fiitjee Limited","address":"   B 1, 623, 2nd Floor, Janakpuri District Centre, Delhi - 110058, Near District Centre Crossing, Opposite Metro Pillar No 574"}
+{"contact1":"+(91)-9311223454","contact2":"9999822453","name":" Me Consultant","address":"   B 1661, Shastri Nagar (N), Delhi - 110052, Near Shastri Statue"}
+{"contact1":"+(91)-9711189465","contact2":"9654127203","name":" Sareens Physics Classes","address":"   B-22 , Dayanand Colony , Lajpat Nagar 4, Delhi - 110024, Near Rama Book Depot"}
+{"contact1":"+(91)-9810296690","contact2":"9312286690","name":" G S Education","address":"   B-253 - A, Street No-3 Majlis Park, Adarsh Nagar, Delhi - 110033"}
+{"contact1":"+(91)-9899786519","contact2":"9560960737","name":" Origin Tutorials","address":"   B-65 Lajpat Ngar Pert-2 Besment, Lajpat Nagar 2, Delhi - 110024, Opp Arya Samaj Mandir"}
+{"contact1":"+(91)-11-24334070","contact2":"24647242","name":" Sachdeva New Pt College Study Centre","address":"   B-85, Defence Colony, Delhi - 110024, Near HDFC Bank"}
+{"contact1":"+(91)-9717111333","contact2":"9717111444","name":" Aoa Private Limited Education Services","address":"   Bansal Plaza, Iind Floor, Dwarka Sector 6, Delhi - 110075, Central Market, Above Union Bank Of India"}
+{"contact1":"+(91)-11-65420008","contact2":"65420009","name":" Number Magic","address":"   Building no 482, Ground Floor, Main road, Gujranwala Town, Delhi - 110009, Near model town metro station"}
+{"contact1":"+(91)-124-6463113","contact2":"4257439","name":" Study Mate","address":"   C 101, 10th Floor, Super Mart 1, DLF City Phase IV, Gurgaon - 122002"}
+{"contact1":"+(91)-8800890734","contact2":"8800890735","name":" Quantum Group Of Education","address":"   C 2/16, Mata Chanan Devi Hospital Road, Janakpuri, Delhi - 110058, Near Hdfc Bank"}
+{"contact1":"+(91)-11-64788500","contact2":"69413293","name":" Study Mate","address":"   C-2 ,Basement, Preet Vihar, Delhi - 110092, Near Metro Hospital"}
+{"contact1":"+(91)-8470002672","contact2":"9871654952","name":" Sai Brilliant Tutorial","address":"   C-24, Radhey Puri, Street no. 2, Krishna Nagar, Delhi - 110051, Near Lal Mandir"}
+{"contact1":"+(91)-9278103010","contact2":"9899151151","name":" Anand Shiksha","address":"   C-43, Rohini Sector 15, Delhi - 110089, Near DDA Market"}
+{"contact1":"+(91)-120-4259566","contact2":"4124145","name":" Narayana Iit Academy","address":"   C-56-A/21, Sector 60, Noida - 201301, Mohan International School"}
+{"contact1":"+(91)-11-26536555","contact2":"26513072","name":" Career Launcher India Ltd","address":"   C-7, 2nd Floor, Community Centre, Safdarjung Development Area, Delhi - 110016, Opposite IIT Main Gate, Near Costa Coffee, SDA Market"}
+{"contact1":"+(91)-9268588588","contact2":"+(91)-9811978816","name":" Study King","address":"   D 14/148, Rohini Sector 3, Delhi - 110085, Near Ayodhya Chowk"}
+{"contact1":"+(91)-9811730694","contact2":"9818209543","name":" Sabby Study Centre","address":"   D-43, Malka Ganj Near Kamla Nagar Dominos, Malka Ganj, Delhi - 110007"}
+{"contact1":"+(91)-11-40551421","contact2":"41551421","name":" VIdyanjali Education Pvt Ltd","address":"   D-773, Lower Ground Floor, Chittaranjan Park, Delhi - 110019, Oposite Mkt No-2"}
+{"contact1":"+(91)-9873415590","contact2":"8285528467","name":" Children Vally Koncept Magical","address":"   E 350 2nd Floor, Ramesh Nagar, Delhi - 110015, Behind Post Ofice"}
+{"contact1":"+(91)-8587911902","contact2":"8285564239","name":" Deepak Gupta Classes","address":"   E 4, Ram Dutt Enclave, Old Pankha Road, Uttam Nagar, Delhi - 110059, Near Uttam Nagar East Metro Station"}
+{"contact1":"+(91)-9899605261","contact2":"9212451405","name":" LAL Bahadur Shastri Training Institute","address":"   E-2/243, 1st Flr, Main Metro , Shastri Nagar (N), Delhi - 110052, Opp metro pillar no.168"}
+{"contact1":"+(91)-9211574999","contact2":"9555583382","name":" Pratham Coaching Centre","address":"   Ea-133, Tagore Garden, Delhi - 110027, Near Water Tank"}
+{"contact1":"+(91)-11-41011502","contact2":"46038248","name":" Iitians Pace Education Pvt Ltd","address":"   F-48, 3rd Floor, South Extension 1, Delhi - 110049"}
+{"contact1":"+(91)-9891344571","contact2":"7827542343","name":" Quest Education","address":"   Ff-43, Main Mangal Bazaar Road, Laxmi Nagar, Delhi - 110092, Near V3s Mall, Nirman Vihar Metro Station"}
+{"contact1":"+(91)-7827730842","contact2":"9654917172","name":" Aakash Institute","address":"   First Floor, Om Plaza, Noida Sector 110, Noida - 201305, Near Yatharth Hospital"}
+{"contact1":"+(91)-11-64555524","contact2":"65721260","name":" NICE","address":"   Flat No 157, 2nd Floor, Kapil Vihar-pitampura, Delhi - 110034, Near Metro Pillar No 355, Near Ashiana Chowk"}
+{"contact1":"+(91)-11-27512484","contact2":"27519984","name":" Vishal Institute","address":"   G 27/73-74, Avantika Road, Rohini Sector 3, Delhi - 110085, Near Mother Divine Public School"}
+{"contact1":"+(91)-9811345566","contact2":"9911345566","name":" Shri Ram Maths Academy","address":"   G-26/165, Rohini Sector 3, Delhi - 110085, Near Yuvashakti model school"}
+{"contact1":"+(91)-8527014155","contact2":"+(91)-9555964642","name":" CallForTutor.Net","address":"   GH-2/59B, ankur appartment, Paschim Vihar, Delhi - 110063, near neo convent school"}
+{"contact1":"+(91)-8287971571","contact2":"9530446699","name":" Dronstudy.Com","address":"   Hno-15 Jia Sarai Village, Bhim Nagri-Hauz Khas, Delhi - 110016"}
+{"contact1":"+(91)-8377891921","contact2":"9312684821","name":" Aggarwal Coaching Centre","address":"   House Number 118A/1 Second Floor Krishna Nagar, Street Number 6, Safdarjung Enclave, Delhi - 110029, Near Sant Mary School"}
+{"contact1":"+(91)-11-23547964","contact2":"23610416","name":" Education Point Coaching Classes","address":"   House Number 694, Gali Number 20, Joshi Road, Karol Bagh, Delhi - 110005, Near Faiz Road"}
+{"contact1":"+(91)-11-64788506","contact2":"69413306","name":" Study Mate","address":"   J-138, 2nd Floor, Rajouri Garden, Delhi - 110027, Opposite Woodland Store, Rajouri Garden Market"}
+{"contact1":"+(91)-9810881522","contact2":"9910002591","name":" Study Hours","address":"   J-154, Main Market, Rajouri Garden, Delhi - 110027, Next To Bhandari Clinic"}
+{"contact1":"+(91)-11-43151244","contact2":"43151243","name":" Aggarwal Study Centre","address":"   J-290, First Floor, Saket, Delhi - 110017, J BLock"}
+{"contact1":"+(91)-9810654072","contact2":"9811028062","name":" The Success Point","address":"   J-3/69 A, Khirki Extn, Malviya Nagar, Delhi - 110017, Near Krishna Mandir"}
+{"contact1":"+(91)-11-25438889","contact2":"25166503","name":" Duggal College Of Education","address":"   J-66 , Basement, Rajouri Garden, Delhi - 110027, Near Shakti Mandir"}
+{"contact1":"+(91)-11-25885026","contact2":"25884706","name":" Sharma Coaching Centre","address":"   K-74 2nd Floor, West Patel Nagar, Delhi - 110008"}
+{"contact1":"+(91)-11-41830153","contact2":"41830154","name":" Shikshaya Namah","address":"   L-71, 2nd & 3rd Flr, Malviya Nagar, Delhi - 110017, Nr Shani Mandir"}
+{"contact1":"+(91)-11-22448091","contact2":"22510219","name":" Akn Commerce Classes","address":"   Laxminagar, Delhi, Main Road, Laxmi Nagar, Delhi - 110092, Near laxmi nagar metro station"}
+{"contact1":"+(91)-9910770992","contact2":"9818403397","name":" Vandana Study Center","address":"   M-15-16, 1st & 2nd Floor, Greater Kailash 2, Delhi - 110048"}
+{"contact1":"+(91)-124-4239725","contact2":"4253725","name":" Oasis Gurgaon","address":"   M-6 2nd Floor, Aptech Building, Old Dlf Colony, Sector 14, Gurgaon - 122001, Opposite State Bank Of India"}
+{"contact1":"+(91)-9266320222","contact2":"9582131790","name":" Consultancy For Govt & Pvt Jobs","address":"   N-229, Mangolpuri, Delhi - 110083, Behind Kala Madir Cinema Hall"}
+{"contact1":"+(91)-9899777299","contact2":"9891641642","name":" British Institute Of Language","address":"   No 496, 1st Floor, Ground Floor, Najafgarh Road, Nangloi, Delhi - 110041, Besides Krishna Mandir"}
+{"contact1":"+(91)-11-22418071","contact2":"22457429","name":" Saraswati P T College","address":"   Off No-104, A-2, guru nanak pura, Laxmi Nagar, Delhi - 110092, opp -v3s mall"}
+{"contact1":"+(91)-120-2396398","contact2":"2396399","name":" Aakash Institute","address":"   Om Tower, Plot No B- 5, 2nd Floor, Alpha Commercial Belt , Alpha 1 , Greater Noida, Greater Noida, Noida - 201310, Nr, Above Dominos"}
+{"contact1":"+(91)-11-24673656","contact2":"24673657","name":" Saxena Success Point","address":"   P-2 Complex, Brigadier Hoshiar Singh Road, Sarojini Nagar, Delhi - 110023"}
+{"contact1":"+(91)-11-43113630","contact2":"43113640","name":" Iitians Pace","address":"   Plot -1, 1st Floor, Metro Station Road, Pitampura, Delhi - 110034, Kohat Enclave, Near Metro Station"}
+{"contact1":"+(91)-120-6515952","contact2":"6900181","name":" Study Mate","address":"   Plot 800, Niti Khand 1-Indirapuram, Ghaziabad - 201014, Opposite ATS Society"}
+{"contact1":"+(91)-9873720730","contact2":"9953168795","name":" Ciel Knowledge","address":"   Plot No-29/A 2nd Floor Deep Mkt, Ashok Vihar, Delhi - 110052"}
+{"contact1":"+(91)-124-4148541","contact2":"4148542","name":" Vidyamandir Classes Gurukul","address":"   Plot No-3807, Chanderlok Road, DLF City Phase IV, Gurgaon - 122002, Near Mothers Pride School"}
+{"contact1":"+(91)-11-27355613","contact2":"64641677","name":" Career Launcher Educate Ltd","address":"   Plot Number -12, 2nd Floor, Kapil Vihar-Pitampura, Delhi - 110034, Opposite Metro Pillar No -349, Near Kohat Enclave Metro Station,Above Next Showroom"}
+{"contact1":"+(91)-11-45572416","contact2":"45586416","name":" Shri Chaitanya Institute","address":"   Plot-13,Shop No -1 ,2,3, Second Floor, Manish Mega Plaza, Dwarka sector 5, Dwarka Sector 5, Delhi - 110075, Sector-5, Near HDFC Bank"}
+{"contact1":"+(91)-120-6515951","contact2":"6515953","name":" Study Mate","address":"   Ps Arcade, 1st Floor, Sector 27, Noida - 201301, Above Bank Of Maharashtra, Near Vinayak Hospital, Near Sector-18 Metro Station"}
+{"contact1":"+(91)-11-43002500","contact2":"42448485","name":" Fiitjee Limited","address":"   Roots Tower, 5th Floor, Laxmi Nagar, Delhi - 110092, Behind V3s Mall, District Centre,Near Nirman Vihar Metro Station"}
+{"contact1":"+(91)-9560305800","contact2":"8287303070","name":" Khan Academy","address":"   Rz B-63, No 2, Nihal Vihar, Delhi - 110041, Near Chetan Public School"}
+{"contact1":"+(91)-8447647101","contact2":"9953232916","name":" Topper''s Point","address":"   S-17B, Main Road, Majlis Park, Adarsh Nagar, Delhi - 110033, Near State Bank Of India"}
+{"contact1":"+(91)-9871302645","contact2":"9654198258","name":" Prudent Coaching Centre","address":"   S-4 2nd Floor , Wadhwa Plaza, Plot No. 11, Sector 6,Central Market, Dwarka, Delhi - 110075"}
+{"contact1":"+(91)-9910867596","contact2":"9910866493","name":" APEX TUTORS BUREAU","address":"   S-59 1 Flr, Laxmi Nagar, Delhi - 110092, Shakarpur"}
+{"contact1":"+(91)-129-4074626","contact2":"4066938","name":" Narayana Iit Academy","address":"   Sco-27, 2nd Floor, Sector 16, Faridabad - 121002"}
+{"contact1":"+(91)-11-26675331","contact2":"26675334","name":" Turning Point","address":"   Shop No. 1/30, Main Road, Malviya Nagar, Delhi - 110017, Near Apj School"}
+{"contact1":"+(91)-11-45634000","contact2":"45634003","name":" Fiitjee Limited","address":"   Shop Number- 31,32,33, Main Road, West Punjabi Bagh, Delhi - 110026, Near HSBC, Central Market"}
+{"contact1":"+(91)-9899448297","contact2":"9810340239","name":" Commerce Point","address":"   Shop no B-492, Nehru Ground, Faridabad NIT, Faridabad - 121001, Opp PNB"}
+{"contact1":"+(91)-8447336936","contact2":"9891051566","name":" ACE CLASSES","address":"   Shop-58, Azadpur, Delhi - 110033, Behind-akash cinema"}
+{"contact1":"+(91)-9990521367","contact2":"9410077000","name":" SRCC Shri Ram Centre of Commerce","address":"   U-158, Patel Hospital Building, 2nd Floor, Shakarpur, Delhi - 110092, Laxmi Nagar Metro Station Gate Number-3"}
+{"contact1":"+(91)-9650773327","contact2":"9899967689","name":" Institute Of Commerce And Management","address":"   WZ-49 F, Vikaspuri, Delhi - 110018, Bodella, Near DG 2"}
+{"contact1":"+(91)-11-28535402","contact2":"28534557","name":" Universal Competition College","address":"   Wz-187,E Block,Budela Market, Dda Market, Vikaspuri, Delhi - 110018, Behinde Oxford School"}
+{"contact1":"+(91)-11-25520578","contact2":"25614692","name":" S S Coaching Centre","address":"   Wz-196, B/4, Street Number 2 A, Janakpuri, Delhi - 110058, Opposite Delhi Haat"}
+{"contact1":"+(91)-11-33068061","name":" Impact Study Point","address":"   1-A, Shop No-3, Cc-Block, Shalimar Bagh, Delhi - 110088, Near Shalimar Bagh Police Station"}
+{"contact1":"+(91)-11-39513087","name":" Kiddies Corner","address":"   1/23, Double Storey, Lajpat Nagar 4, Delhi - 110024, Near Shiv Shakti Sai Mandir"}
+{"contact1":"+(91)-9999337821","name":" Decent Study Circle","address":"   103-104, 1st Floor, Mp Mall, Pitampura, Delhi - 110034, Near Gopal Mandir"}
+{"contact1":"+(91)-11-33085998","name":" Target IITJEE PMT Pvt Ltd","address":"   106, First Floor, Pragati Deep Building, Laxmi Nagar, Delhi - 110092, District Centre, V3S Mall"}
+{"contact1":"+(91)-11-33829115","name":" Vidhya Sagar Classes","address":"   1092/1, Main Market, Mehrauli, Delhi - 110030, Near Siyaram Sweets"}
+{"contact1":"+(91)-11-33055685","name":" IBN Classes","address":"   11/4, Main Market, East Patel Nagar, Delhi - 110008, Near Cafe Coffee Day"}
+{"contact1":"+(91)-9811056663","name":" Sharma New Arts College","address":"   114-A Kamla nagar, Main road, Shakti Nagar, Delhi - 110007, Near shakti nagar chowk"}
+{"contact1":"+(91)-11-33638819","name":" BVM Brilliant Academy","address":"   119, MP Mall, Pitampura, Delhi - 110034, Near Gopal Mandir"}
+{"contact1":"+(91)-8287407701","name":" Gate Ies IIT Academy","address":"   124a/8c, Main Road, Katwaria Sarai, Delhi - 110016, Near Bus Stand"}
+{"contact1":"+(91)-9810678111","name":" Sumit coaching centre","address":"   14/1, East Patel Nagar, Delhi - 110008, Near patel nagar metro staion"}
+{"contact1":"+(91)-11-39513640","name":" Sigma Institute","address":"   140,2nd Floor, Mall Road, Kingsway Camp, Delhi - 110009, Near Gtb Nagar Metro Station Gate No 4"}
+{"contact1":"+(91)-11-39510578","name":" Singh Tutorials And Simran Study Circle","address":"   144 C, Qu Block, Pitampura, Delhi - 110034, Near Income Tax Colony"}
+{"contact1":"+(91)-11-33988420","name":" Adarsh Institute Of Computer & Mgmt","address":"   1449/9, Durga Puri Chowk, Durgapuri-Shahdara, Delhi - 110032, Opposite Durgamandir"}
+{"contact1":"+(91)-11-33083076","name":" vishnoi classess","address":"   145/2, Gali Ganga Ram Teliwala, Shahdara, Delhi - 110032"}
+{"contact1":"+(91)-11-33634678","name":" Sumas Institute Of It & Mathematics","address":"   15, Basement, Ourtram Lane, Kingsway Camp, Delhi - 110009, Near Gtb Metro Station Gate Number 2"}
+{"contact1":"+(91)-11-33084403","name":" Shivani Tutorials","address":"   15/3674, Regarpura, Karol Bagh, Delhi - 110005"}
+{"contact1":"+(91)-11-33983404","name":" Pinnacle Classes","address":"   155, 2nd Floor, Kapil Vihar, Pitampura, Delhi - 110034, Near Metro Pillar No 354"}
+{"contact1":"+(91)-11-33498634","name":" Talent Academy","address":"   155C, Model Town West, Ghaziabad, Ghaziabad - 201001, Near MMH College"}
+{"contact1":"+(91)-11-33088072","name":" Lets Padhai","address":"   1666/1, 2nd Floor, Govind Puri Extension, Kalkaji Extension, Delhi - 110019, Near Hanuman Mandir"}
+{"contact1":"+(91)-11-33492553","name":" Pratigya Admission Institute","address":"   1683/H 3 , Todermal Colony, Paprawat Road, Najafgarh, Delhi - 110043, Near Post Office"}
+{"contact1":"+(91)-11-33437662","name":" Achievers Academy","address":"   17/112, Subhash Nagar, Delhi - 110027, Near Main Market"}
+{"contact1":"+(91)-11-33437039","name":" Direction Academy","address":"   177, Sector 30, Faridabad - 121001"}
+{"contact1":"+(91)-11-39542171","name":" Clickat Career","address":"   18 A, Pocket I, Dilshad Garden, Delhi - 110095, Near Dilshad Garden Metro Station"}
+{"contact1":"+(91)-9582224441","name":" Aoa Private Limited Education Services","address":"   186, Sarojini Nagar, Delhi - 110023, Ring Road Market"}
+{"contact1":"+(91)-11-33630155","name":" Excellence In Education","address":"   19/2,Krishna Nagar, Gali No. 4, Safdarjung Enclave, Delhi - 110029, Behind Govt. School"}
+{"contact1":"+(91)-11-33637022","name":" Einstein Coaching Centre","address":"   1st Floor, Sco- 86, Sector 56, Gurgaon - 122011, Above Bank Of Maharashtra HUDA Market"}
+{"contact1":"+(91)-11-33724894","name":" Pembinaan Classes","address":"   2-3 Shakti kiran building, first floor, Shakti Nagar, Delhi - 110007, near by shakti nagar chowk"}
+{"contact1":"+(91)-9873943230","name":" Success Mantraz","address":"   2/196, First Floor, Subhash Nagar, Delhi - 110027, Near Amit Nursing Home"}
+{"contact1":"+(91)-11-23822114","name":" J P S Study Centre","address":"   2/2 Block No.41,Singh Sabha Road,Clock Tower, Shakti Nagar, Delhi - 110007, Behind Amba Cinema"}
+{"contact1":"+(91)-11-33085250","name":" Kumar Home Tutors","address":"   2/4B, Moti Nagar, Delhi - 110015, Near Moti Nagar Metro Station"}
+{"contact1":"+(91)-11-33041827","name":" KD Campus Pvt Ltd","address":"   2007, First Floor, Outram Lines, Kingsway Camp, Delhi - 110009, Opposite Mukherjee Nagar Police Station"}
+{"contact1":"+(91)-11-33630470","name":" Delhi Home Tuitions","address":"   203-204 Arihant Vardhman Plaza Plot No 6 K P Block Comm Complex, Pitampura, Delhi - 110034"}
+{"contact1":"+(91)-11-33496814","name":" Nics Private Limited","address":"   205, 2nd Floor, Plaza 1, Ndse, Masjid Mor, South Extension 2, Delhi - 110049"}
+{"contact1":"+(91)-11-33063314","name":" Knowledge Hub","address":"   206, Basement, Main Road, Ram Vihar, Delhi - 110092, Opposite Keventers Market"}
+{"contact1":"+(91)-11-39545716","name":" Ashadeep Classes","address":"   206,Basement, Vinoba Puri, Lajpat Nagar 2, Delhi - 110024"}
+{"contact1":"+(91)-11-33068825","name":" SVM Classes","address":"   206/207, Aditya Complex, Dwarka Sector 6, Delhi - 110075, Nearby Sagar Ratna, Central Market"}
+{"contact1":"+(91)-11-33063544","name":" Language Shaala","address":"   207, Avtar Enclave, Paschim Vihar, Delhi - 110063, Opposite Dominos"}
+{"contact1":"+(91)-11-33085096","name":" Kumar Study Circle","address":"   21/44, Ground Floor, Shakti Nagar, Delhi - 110007, Near Aggarwal Dharamshala, Gol Chakkar"}
+{"contact1":"+(91)-11-33439937","name":" Greno Institute Of Edu & Technology","address":"   210, 2nd, Krishna Apra Plaza, Alpha 1 Commercial Belt, Greater Noida, Noida - 201310, Above HDFC Bank"}
+{"contact1":"+(91)-11-33985560","name":" York Franklin Skill Development & Research Institute","address":"   22/33 B, 3rd Floor, 24 Block, Tilak Nagar, Delhi - 110018, Near MCD Primary School"}
+{"contact1":"+(91)-11-33077335","name":" Vidyanext Personalized Tution","address":"   228,2nd floor, south point mall, golf course road, Gurgaon - 122002, dlf phase -v"}
+{"contact1":"+(91)-11-33135876","name":" Home Tutorz","address":"   232, Madhu Vihar-Patparganj, Delhi - 110092"}
+{"contact1":"+(91)-11-33076313","name":" Vijay Classes","address":"   234 A, Pocket F, GTB Enclave, Delhi - 110093"}
+{"contact1":"+(91)-11-33064658","name":" Famous Study Circle","address":"   235 Ground Floor, Pocket 20, Rohini Sector 24, Delhi - 110085, Near Best Mega Mall"}
+{"contact1":"+(91)-11-33826107","name":" My Any Time Tutor","address":"   2438, Faiz Road, Karol Bagh, Delhi - 110005, Near Hotel High 5"}
+{"contact1":"+(91)-11-27608559","name":" Education point","address":"   244, Kingsway Camp, Delhi - 110009, Near Data Gurudwara, Bhai Parmanand Colony, Near Mukherjee Nagar"}
+{"contact1":"+(91)-11-33078606","name":" Gcbh Institute For Commerce & Science","address":"   249, Hakikat Nagar, Street No 9, Gtb Nagar, Delhi - 110009, Near Gtb Nagar Metro Station Gate No-2"}
+{"contact1":"+(91)-11-65156229","name":" KVN classes Pvt Ltd","address":"   25 & 26, Mai. Road, Punjabi Bagh, Delhi - 110026, Central market"}
+{"contact1":"+(91)-11-33063164","name":" V2 Vidya Vaas","address":"   25/97-98, Street No 14, Vishwas Nagar-Shahdara, Delhi - 110032"}
+{"contact1":"+(91)-11-39541075","name":" Saurabh Tutions","address":"   250/6 Sagar Apartments, Adarsh Avenue, Mehrauli, Delhi - 110030"}
+{"contact1":"+(91)-11-39516630","name":" Oasis Academy","address":"   2513 ,3rd Floor, Hudson Lane!near Gtb Nagar, Kingsway Camp, Delhi - 110009, Near HDFC Bank, At Vijay Nagar Red Light"}
+{"contact1":"+(91)-11-33639266","name":" Sai Young Minds Academy","address":"   264,265, Second Floor, 104, First Floor, Vardhaman City Mall, Dwarka Sector 23, Delhi - 110077, Opposite Basava International School"}
+{"contact1":"+(91)-11-33744207","name":" Vidhya Sagar Institute","address":"   265, Sector 15a, Faridabad - 121007, Back Side Of Gym Khana Club"}
+{"contact1":"+(91)-11-33041379","name":" Nanak Academy","address":"   28/1, First Floor, Street Number 5, A 2 Block, Main Road, Burari, Delhi - 110084, Near Next Showroom, West Sant Nagar"}
+{"contact1":"+(91)-11-39518823","name":" Renu Mittal Concepts","address":"   281, A 3 Block, Second Floor, C A Apartments, Paschim Vihar, Delhi - 110063, Opposite Jwala Heri Market"}
+{"contact1":"+(91)-11-33086839","name":" Alliance Institute of Education","address":"   289 3rd FLOOR, BAZAR DELHI GATE, Delhi Gate, Delhi - 110002, NEAR JAIN MANDIR"}
+{"contact1":"+(91)-11-33493136","name":" My Mentor","address":"   29 Basement, Community Centre, PVR Anupam Complex, Saket, Delhi - 110017, Opposite HDFC Bank And Behind Mother Dairy"}
+{"contact1":"+(91)-11-33060855","name":" Achievers Classes","address":"   296, Aravali Apartment, Alaknanda, Delhi - 110019"}
+{"contact1":"+(91)-11-33429166","name":" X-Cellent Future Academy","address":"   2nd Floor, Ganga Shopping Complex, Sector 29, Noida - 201303"}
+{"contact1":"+(91)-11-33055357","name":" Relevant Ace Academy","address":"   2nd Floor, Main Dadri Road, Sector 44, Noida - 201303, Near Petrol Pump"}
+{"contact1":"+(91)-11-33826634","name":" Edux Centre for Education Xcellence","address":"   3/20, Ground Floor, Nanak Baker Wali Gali, Ramesh Nagar, Delhi - 110015, Near Handa Medical Store"}
+{"contact1":"+(91)-11-23844383","name":" Malhotras Classes","address":"   30/26, 2nd Floor, Shakti Nagar, Delhi - 110007, Mother Dairy, Near Nangia Park"}
+{"contact1":"+(91)-11-33436096","name":" G N Joshi Classes","address":"   306, CD Block, Aggarwal Shopping Centre, Pitampura, Delhi - 110034"}
+{"contact1":"+(91)-11-33639788","name":" Shiksha Academy","address":"   3184, Sector 46, Gurgaon - 122003, Behind Amity International School"}
+{"contact1":"+(91)-11-33087465","name":" Maya Tutorials And Web","address":"   3197/234, Tri Nagar, Delhi - 110035, Near Mata Shiv Devi School, Chandan Nagar"}
+{"contact1":"+(91)-11-39517277","name":" American Institute","address":"   34/1, Green Park, Delhi - 110016, Opposite Greenpark Gurudwara & Indian Oil Bhawan"}
+{"contact1":"+(91)-11-33082390","name":" Aneja Tutor Bureau","address":"   340/12 H, Friends Colony, Shahdara, Delhi - 110032, Opposite Mansarover Park"}
+{"contact1":"+(91)-11-33498841","name":" Smart Brains Tutorials","address":"   35/9, First Floor, Ashok Nagar, Delhi - 110018"}
+{"contact1":"+(91)-11-33079809","name":" R & R Education Foundation","address":"   3536 A/4, Raja Park, Jk Residency, Pitampura, Delhi - 110034, Near Mahindra Park Chowk"}
+{"contact1":"+(91)-11-41845255","name":" Future Edge","address":"   364 1st floor , Kohat Enclave-Pitampura, Delhi - 110034"}
+{"contact1":"+(91)-11-33436312","name":" Indirapuram Education Centre","address":"   367 Ground Floor, Abhay Khand 3-Indirapuram, Ghaziabad - 201014, Near St Francis School"}
+{"contact1":"+(91)-11-33722286","name":" Avte India Pvt Ltd","address":"   37,Avte House,Dda Commercial Complex,Kailash Colony Extension,Greater Kailash-1, Greater Kailash, Delhi - 110048, Near Kailash Colony Metro Station"}
+{"contact1":"+(91)-11-33064791","name":" Florence Institute","address":"   374, 3rd Floor, Kohat Enclave-pitampura, Delhi - 110034"}
+{"contact1":"+(91)-11-33054979","name":" Madurai Kamaraj University","address":"   374, Kohat Enclave, 3rd Floor, Pitampura, Delhi - 110034, Opposite Pillar Number 343, Near Kohat Enclave Metro Station & Vaishali Red Light Crossing"}
+{"contact1":"+(91)-11-33980920","name":" Florence Education & Training Institute","address":"   374, Third Floor, Main Metro Road, Kohat Enclave-pitampura, Delhi - 110034, Near Kohat Enclave Metro Station Piller No 343"}
+{"contact1":"+(91)-11-33085157","name":" Sehgal School Of Competitions","address":"   38, 1st Floor, Central Market, West Punjabi Bagh, Delhi - 110026, Opposite Dominos"}
+{"contact1":"+(91)-11-65139786","name":" Prodigy","address":"   38/52, Basement, Punjabi Bagh, Delhi - 110026, Nr Singh Sabha Gurdwara"}
+{"contact1":"+(91)-11-33984569","name":" Universal Study Academy","address":"   386, Nimri Colony, Ashok Vihar 4, Delhi - 110052"}
+{"contact1":"+(91)-11-33741038","name":" Mohan Shyam Academy","address":"   388, Ground Floor, Iskon Road, Sant Nagar-East Of Kailash, Delhi - 110065, Near Iskon Temple"}
+{"contact1":"+(91)-11-25751466","name":" Brilliant College Of Commerce","address":"   3929/28, Padam Singh Road, Karol Bagh, Delhi - 110005"}
+{"contact1":"+(91)-11-33828560","name":" ABS Academy","address":"   398 Chand Nagar, Tilak Nagar, Delhi - 110018, Near Chand Nagar Bus Stop & Sbi"}
+{"contact1":"+(91)-11-33066440","name":" TCIL IT","address":"   3e/35, Bangla Plot, New Industrial Township- NIT, Faridabad - 121001, 2-3 Chowk, Near Vardan Hospital"}
+{"contact1":"+(91)-11-33491019","name":" Gyan Mantra","address":"   4/1912, Gali Number 6, Pandav Road, Shahdara, Delhi - 110032, Near Pawan Di Hatti, Rama Block"}
+{"contact1":"+(91)-11-39548112","name":" Kshitij Education","address":"   40/15, Shakti Nagar, Delhi - 110007, Near Nagia Park"}
+{"contact1":"+(91)-11-39541090","name":" Ayushman Institute","address":"   401, Rishabh Corporate Tower, Vikas Marg, Delhi - 110092, Opposite Dayanand Vihar, Karkardooma Community Centre"}
+{"contact1":"+(91)-11-33826293","name":" Teachwell Institute Pvt Ltd","address":"   415, 4th Floor, Amba Tower, Rohini Sector 9, Delhi - 110085"}
+{"contact1":"+(91)-11-33723306","name":" Economics Academy","address":"   4314/5 JAI Mata Market, Gali No 5, Tri Nagar, Delhi - 110035"}
+{"contact1":"+(91)-11-33075974","name":" SCI","address":"   432 A, First Floor, Jagriti Enclave-Anand Vihar, Delhi - 110092, Near Karkardooma Metro Station"}
+{"contact1":"+(91)-11-33630103","name":" Meritorious Academy Pvt Ltd","address":"   44 A, 2nd And 3rd Floor, Central Road, Bhogal, Delhi - 110014, Near Janta Bakery"}
+{"contact1":"+(91)-11-33825680","name":" Gurukul Academy","address":"   455, H Block, Ground Floor, Vikaspuri, Delhi - 110018, Near K R Manglam School"}
+{"contact1":"+(91)-11-33081215","name":" PDR Institute Of Education","address":"   4614-16, Pahari Dhiraj, Bombay Market, Main Road, Sadar Bazar, Delhi - 110006"}
+{"contact1":"+(91)-11-33743535","name":" Prospect Immigration And Education Services","address":"   47, Pusa Road, Pusa Road, Delhi - 110005, Opposite Pillar Number 131"}
+{"contact1":"+(91)-11-41017296","name":" Meritnation.com","address":"   47-A, Kalu Sarai, Sarvapriya Vihar, Kalu Sarai-Sarvapriya Vihar, Delhi - 110016, Near Naraina Coaching Centre"}
+{"contact1":"+(91)-11-33068579","name":" Narayana IIT PMT Academy","address":"   47-B, Kalu Sarai-sarvapriya Vihar, Delhi - 110016, Near Hauz khas Metro Station"}
+{"contact1":"+(91)-11-25274378","name":" Alp Academy","address":"   486/64 National Market Peeragahi, Paschim Vihar, Delhi - 110063, Near Jai Maa Vaishno Dabba"}
+{"contact1":"+(91)-11-33725263","name":" Alp Academy","address":"   487/64 National Market Peeragarhi, Paschim Vihar, Delhi - 110063, Near Jai Maa Vaishno Dabba"}
+{"contact1":"+(91)-11-33059305","name":" BRHD Institute Of Success","address":"   488/5 A, 1st Floor, Dilshad Garden, Delhi - 110095, Near Jhimil Metro Station"}
+{"contact1":"+(91)-11-33495532","name":" Quantum Psych Academy","address":"   5, East Patel Nagar, Delhi - 110008, Near Patel Nagar Metro Station"}
+{"contact1":"+(91)-11-33829284","name":" Fundamental Institute","address":"   50/L, New Colony, Gurgaon, Gurgaon - 122001, Near Gurudwara And Sector 7"}
+{"contact1":"+(91)-9999652986","name":" Carrier Consultant","address":"   508, Jaina Tower-6, Janakpuri, Delhi - 110058, Distict Centre"}
+{"contact1":"+(91)-11-33078795","name":" Universal Coaching Centre","address":"   5089/1 krishan nagar 2nd floor opposite khalsa college Karol Bagh New Delhi, Karol Bagh, Delhi - 110005, opposite khalsa college"}
+{"contact1":"+(91)-11-33413658","name":" Delicomm Institute","address":"   51/29, Old Rajender Nagar, Delhi - 110060, Near Shani Mandir"}
+{"contact1":"+(91)-11-33076887","name":" Stepping Stones","address":"   527, Main Road, Shakti Khand 4-Indirapuram, Ghaziabad - 201014, Near D Mall"}
+{"contact1":"+(91)-11-33083507","name":" INFOWAVE MANAGEMENT & IT COLLEGE","address":"   536 First Floor, Nangloi, Delhi - 110041, Opp. Metro Pillar No.374"}
+{"contact1":"+(91)-11-33084958","name":" AIMS Institute","address":"   57/11, 1st Floor, Central Road, Ashok Nagar, Delhi - 110018, Near Ramleela Ground"}
+{"contact1":"+(91)-11-33428346","name":" Vidya Classes","address":"   572/2 1st Floor, New Railway Road, Gurgaon - 122001, Opposite Auto Stand"}
+{"contact1":"+(91)-8377857782","name":" Saksham Education institute","address":"   57a,pocket a 11, Kalkaji Extension, Delhi - 110019, Near Govind puri police station"}
+{"contact1":"+(91)-11-33492594","name":" Amaan Institute & Classes","address":"   58 B, Pocket A, Mayur Vihar Phase 2, Delhi - 110091, Near Ganesh Mandir"}
+{"contact1":"+(91)-11-33433823","name":" Ashadeep Classes","address":"   58 a, Janta Flats, Sarita Vihar, Delhi - 110076, Near Aggarwal Sweets"}
+{"contact1":"+(91)-11-33041948","name":" CA Naveen Pandey","address":"   58/17 First Floor Ashok Nagar, Tilak Nagar, Delhi - 110018, Near Tilak Nagar Metro Gate No 3"}
+{"contact1":"+(91)-11-33630271","name":" Jitendra Commerce Classes","address":"   580, G-2, Niti Khand- I, Indirapuram, Ghaziabad - 201014, Near swarnjayanti park"}
+{"contact1":"+(91)-11-33076066","name":" Cognizance Academy","address":"   585, Nimri Colony, Ashok Vihar, Delhi - 110052, Near Bharat Nagar"}
+{"contact1":"+(91)-9711995636","name":" S D Tutorials","address":"   59/1, 2nd Floor, Saroj Tower, Guru Ravidas Marg, Kalkaji Extension, Delhi - 110019, Above Vijaya Bank, Near Govindpuri Metro Station"}
+{"contact1":"+(91)-11-33057444","name":" Nes academy","address":"   59/1, Second Floor, Saroj Tower, Kalkaji Extension, Delhi - 110019, Above Vijaya Bank"}
+{"contact1":"+(91)-11-33497032","name":" Peritus Commerce Classes","address":"   5e/20 First Floor, NIT, Faridabad - 121001, Near Neelam Petrol Pump"}
+{"contact1":"+(91)-11-33498855","name":" Shree Varshney Coaching Centre","address":"   60, Rohini Sector 3, Delhi - 110085, Near Vishram Chowk, Pocket H 33"}
+{"contact1":"+(91)-11-33428290","name":" S D Academy","address":"   61, Basement, Dalpat Singh Building, Prateek Market, Munirka, Delhi - 110067, Near Canara Bank, In Front of Park"}
+{"contact1":"+(91)-11-33454855","name":" Prudential Academy & Home Tutors","address":"   61, Jagriti Enclave, Karkardooma, Delhi - 110092, Near Karkardooma Metro Station"}
+{"contact1":"+(91)-11-33744150","name":" Ace Campus","address":"   61/2 Ashok Nagar, Tilak Nagar, Delhi - 110018, Opposite Metro Station Tilak Nagar Gate No-3"}
+{"contact1":"+(91)-11-47096046","name":" Ajay Education Center","address":"   614, S G Mall, 6th Floor, Rohini Sector 9, Delhi - 110085, Near D C Chowk"}
+{"contact1":"+(91)-11-33434742","name":" Smart Brains Academy Pvt Ltd","address":"   620 A, First Floor, Site 1, Vikaspuri, Delhi - 110018, Opposite Jetking"}
+{"contact1":"+(91)-11-33065448","name":" Success Tree","address":"   63 A/1, Bank Street, Munirka, Delhi - 110067, Above HDFC ATM, Near Canara Bank"}
+{"contact1":"+(91)-11-47551070","name":" DR SANGEETAS ACADEMY","address":"   65 1st floor, Harsh vihar, Pitampura, Delhi - 110034, Adjustened to 13 Step"}
+{"contact1":"+(91)-11-33744916","name":" Vidya Manthan","address":"   656, Vikaspuri, Delhi - 110018, Near Janakpuri West Metro Station"}
+{"contact1":"+(91)-11-39548725","name":" NIKS Classes","address":"   665, Sector 2, Type 2, Sadiq Nagar, Delhi - 110049"}
+{"contact1":"+(91)-11-33744043","name":" Education On Call","address":"   67/2 C, Zamrudpur, Greater Kailash 1, Delhi - 110048"}
+{"contact1":"+(91)-11-33041349","name":" Academy Of Professionals","address":"   70-a, Hauz Rani, Malviya Nagar, Delhi - 110017, Opposite Saket City Hospital And Near Max Hospital"}
+{"contact1":"+(91)-11-33059639","name":" IISL","address":"   703 B And 704 B, 2nd Floor, Kala Pathar Road, Nyay Khand II-Indirapuram, Ghaziabad - 201014, Opposite Big Bazaar Aditya Mall"}
+{"contact1":"+(91)-11-33069362","name":" Lakshya Coaching Classes","address":"   7054, Beri Wala Bagh, Azad Market, Delhi - 110006, Near Choti Masjid"}
+{"contact1":"+(91)-11-33638043","name":" Concepts","address":"   7301, DLF City Phase 4, Gurgaon - 122002, Near Super Mart 2"}
+{"contact1":"+(91)-11-27413640","name":" I M S Academy Derawal Ngr","address":"   8,L S C Basement, Kamla Nagar, Delhi - 110007, Nr Pentamed Hospital,Derawal Ngr"}
+{"contact1":"+(91)-11-33743480","name":" Narayan Toppers","address":"   80/43 A, Malviya Nagar, Delhi - 110017, Opposite Ganpati Apartment"}
+{"contact1":"+(91)-11-33060167","name":" KDC","address":"   81, Second Floor, Kingsway Camp, Gtb Nagar, Delhi - 110009, Near Gtb Nagar Metro Station Gate No.1"}
+{"contact1":"+(91)-11-33412276","name":" Better English Centre","address":"   84 B, First Floor, Madhu Pawan House, Okhla Bazaar, Main Road, Jamia Nagar, Delhi - 110025, Near Tikona Park"}
+{"contact1":"+(91)-11-33078173","name":" Generationext","address":"   84, Rajendra Park Extention, Nangloi, Delhi - 110041, Near Nangloi Railway Station"}
+{"contact1":"+(91)-11-33068800","name":" Step By Step","address":"   84/2 Basement, Ahinsa Khand 2-Indirapuram, Ghaziabad - 201014, Near Shanti Gopal Hospital"}
+{"contact1":"+(91)-11-33076248","name":" Smart Achievers","address":"   855, Niti Khand I-Indirapuram, Ghaziabad - 201014, Near ATS Society"}
+{"contact1":"+(91)-11-33067774","name":" Aryan Tution Centre","address":"   87 A, Amritpuri Garhi, Main Market Garhi, Garhi-East Of Kailash, Delhi - 110065"}
+{"contact1":"+(91)-11-39519136","name":" The Success Point","address":"   90/1, Basement, Malviya Nagar, Delhi - 110017, Near Madan Mohan Malviya Hospital"}
+{"contact1":"+(91)-11-33742734","name":" Indraprastha Institute","address":"   9188/4 First Floor Multani Dhanda, Near Bikaner Sweets, Pahar Ganj, Delhi - 110055, Pahar Ganj Police Station"}
+{"contact1":"+(91)-11-45696504","name":" Narayana Iit Academy","address":"   92-94, 2nd Flloor, Mall Road, Kingsway Camp, Delhi - 110009, Near Gtb Nagar, Metro Station Gate No 3"}
+{"contact1":"+(91)-11-33089976","name":" Knowledge Home Tutors","address":"   95 B, Street Number 4, Safdarjung Enclave, Delhi - 110029, Near Sarvodaya Vidyalaya"}
+{"contact1":"+(91)-11-33491293","name":" Scoremore Tutorials","address":"   964 Sector -9, Vasundhara, Ghaziabad - 201012"}
+{"contact1":"+(91)-11-39516972","name":" Somaya Coaching Centre","address":"   964, Rani Bagh, Delhi - 110034, Near Gurudwara Singh Sabha"}
+{"contact1":"+(91)-11-33080645","name":" R K G Institute By Parag Gupta","address":"   A -24, Sector 34, Noida - 201307, Near Mother Dairy Market"}
+{"contact1":"+(91)-11-33069252","name":" Pooja Coaching Classes","address":"   A -36, Sector 61, Noida - 201307, Near Shoprix Mall"}
+{"contact1":"+(91)-11-33054100","name":" VTS Institute","address":"   A 1, 2nd Floor, Kewal Park, Adarsh Nagar, Delhi - 110033, Near Ram Lila Ground"}
+{"contact1":"+(91)-11-33980705","name":" G D Coaching Center","address":"   A 1/11, Rohini Sector 11, Delhi - 110085, Near Metro Walk"}
+{"contact1":"+(91)-11-33452178","name":" Vision PMT  And  IIT  JEE","address":"   A 1/163, Main Najafgarh Road, Janakpuri, Delhi - 110058, Near Janakpuri Metro station & Opposite Metro Pilar Number 621"}
+{"contact1":"+(91)-11-33742274","name":" Star Home Tutor","address":"   A 1/214 C, Maha Shakti Apartments, Paschim Vihar, Delhi - 110063, Near District Park"}
+{"contact1":"+(91)-11-33434600","name":" New Education Academy","address":"   A 1/453, Rohini Sector 6, Delhi - 110085, Near Gurdwara & Vidya Jain Public School"}
+{"contact1":"+(91)-11-43054621","name":" Brijesh Sharma Classes","address":"   A 136, Surajmal Vihar-anand Vihar, Delhi - 110092, Near Bharat National Public School"}
+{"contact1":"+(91)-11-33074591","name":" I Learn Academy","address":"   A 2/1, Pankha Road, Janakpuri, Delhi - 110058, Near Jeevan Park Bus Stop"}
+{"contact1":"+(91)-11-39544639","name":" SVS Tuition Bureau","address":"   A 201, Inderprastha Villa, Sector 61, Noida - 201307, Near SAI Temple"}
+{"contact1":"+(91)-11-39518528","name":" SSKI Of Commerce","address":"   A 29, Upper Ground Floor, Central Market, Ashok Vihar 1, Delhi - 110052, Near Mother Dairy"}
+{"contact1":"+(91)-11-39546599","name":" Scholars Academy","address":"   A 376, Defence Colony, Delhi - 110024"}
+{"contact1":"+(91)-11-33416807","name":" Mukesh Home Tutor & Coaching Centre","address":"   A 45, Second Floor, Ganesh Nagar Pandav Nagar Complex, Ganesh Nagar, Delhi - 110092, Near Hanuman Mandir"}
+{"contact1":"+(91)-11-33075884","name":" Mentors Point Coaching Institute","address":"   A 5 B/C 21 C, Janakpuri, Delhi - 110058, Near Janak Medicos"}
+{"contact1":"+(91)-11-33079591","name":" Study Zone","address":"   A 5/10, 1st Floor, Paschim Vihar, Delhi - 110063, Opposite Pizza Hut"}
+{"contact1":"+(91)-11-33452651","name":" Commerce Academy","address":"   A 6, Brotherhood Society, Vikaspuri, Delhi - 110018, Near Mamta Modern School"}
+{"contact1":"+(91)-11-33135848","name":" Elevators Academy","address":"   A 69, Abul Fazal Enclave Part I, Shaheen Bagh-jamia Nagar, Delhi - 110025, Near Jamia Nagar Thana"}
+{"contact1":"+(91)-11-33062882","name":" Bachpan Play School","address":"   A 7 A, New Palam Vihar, Main Bajghera Road, Palam Vihar, Gurgaon - 122017, Opposite Mahindra Aura"}
+{"contact1":"+(91)-11-33082498","name":" Archana Tutions","address":"   A 7 ground floor subash park, Uttam Nagar, Delhi - 110059, Near param puri chowk"}
+{"contact1":"+(91)-11-33075118","name":" Direction Academy","address":"   A 8, First Floor, Uttam Nagar, Delhi - 110059, Near Dwarka More Metro Station Gate Number 4 And Opposite Metro Pillar Number 778, Sewak Park"}
+{"contact1":"+(91)-11-33743852","name":" The Shri Ram Coaching Classes","address":"   A 8, Second Floor, Acharya Niketan Market Road, Mayur Vihar Phase 1, Delhi - 110091, Above Uco Bank"}
+{"contact1":"+(91)-11-33084167","name":" A Plus Home Tutors","address":"   A- 134-135, sector 16, Rohini, Delhi - 110085"}
+{"contact1":"+(91)-8802666661","name":" Economics Classes","address":"   A-1/105.106sector 6, rohini, Rohini, Delhi - 110085, Near Ayodhya chowk"}
+{"contact1":"+(91)-11-33083736","name":" IFA EDUCATION SERVICES PVT LTD","address":"   A-1/17,Prashant Vihar, Outer Ring Road, Rohini, Delhi - 110085, Opposie Power House & Near Andhra Bank"}
+{"contact1":"+(91)-9999568099","name":" Prime Akash Institute","address":"   A-15,7, Noida, Noida - 201301, Hindon Vihar,Sec-49"}
+{"contact1":"+(91)-9873909695","name":" Pace Institute","address":"   A-2 Ground Floor, Tirumala Apartment, Sahibabad, Ghaziabad - 201005, Sector-2, Rajendra Nagar, Near Dav Public School"}
+{"contact1":"+(91)-11-39545346","name":" Best Tutors Bureau Sbs P T College","address":"   A-2, 1st Floor, Sharma Complex, Laxmi Nagar, Delhi - 110092, Near Nirman Vihar Station"}
+{"contact1":"+(91)-9212013747","name":" Best Tutor Bureau Shaheed Bhagat Singh College","address":"   A-2- Office No 106 1st Floor,Sharma Complex, Laxmi Nagar, Delhi - 110092, Opposite V3s Mall"}
+{"contact1":"+(91)-11-33745278","name":" Ram Sai Institute","address":"   A-20/a Nishant Park, Dwarka, Delhi - 110075, Near Metro Pillar No-805"}
+{"contact1":"+(91)-11-33825781","name":" Elite Academy","address":"   A-260, Shastri Nagar (n), Delhi - 110052, Near Shastri Statue And Near Nimri Goan Primary School"}
+{"contact1":"+(91)-11-25573795","name":" Smartprep Education Pvt Ltd","address":"   A-39, 1st Floor, Guru Virjanand Marg, Vikaspuri, Delhi - 110018, Vikaspuri Mor, Near Uttam Nagar East Metro"}
+{"contact1":"+(91)-11-33988621","name":" The Pearl Academy","address":"   A-6/1, First Floor, Paschim Vihar, Delhi - 110063, Near Batra Nursing Home And Opposite Indraprastha School"}
+{"contact1":"+(91)-11-33490198","name":" Jayant Study Centre","address":"   A-992 Gd Colony, Mayur Vihar Phase-3, Mayur Vihar Phase 3, Delhi - 110096, Near Hanuman Mandir"}
+{"contact1":"+(91)-11-33414506","name":" Surmount Academy","address":"   A1, Janta Flats, Paschim Vihar, Delhi - 110063, Near A1 Gurudwara"}
+{"contact1":"+(91)-11-33433423","name":" Bansal Institute","address":"   A1/28, Janakpuri, Delhi - 110058, Opposite Metro Pillar Number 626 And Vikaspuri Crossing"}
+{"contact1":"+(91)-11-33743770","name":" Success Point","address":"   A2, Lower Ground Floor, Lajpat Nagar 1, Delhi - 110024, Near Central Market"}
+{"contact1":"+(91)-11-33492169","name":" Info Premiere","address":"   AC-13 A, All Heavens, Shalimar Bagh, Delhi - 110088"}
+{"contact1":"+(91)-11-64594720","name":" SPD Ignou","address":"   Ag - 22, Ring Road, Shalimar Bagh, Delhi - 110088, Near Yes Bank"}
+{"contact1":"+(91)-11-33428759","name":" Edututor","address":"   Amar Colony, Lajpat Nagar, Delhi - 110024"}
+{"contact1":"+(91)-11-33412452","name":" Amity Institute For Competitive Examination","address":"   Amity International School, Mayur Vihar Phase 1, Delhi - 110091, Near Samachar Apartments"}
+{"contact1":"+(91)-11-33427614","name":" Mammoth Brains","address":"   Apple Wood 34, Malibu Town, Sohna Road, Gurgaon - 122001"}
+{"contact1":"+(91)-11-33078145","name":" Zcore Institute Of Learning School","address":"   B 1, 2nd Floor, Dwarka More, Delhi - 110059, Near Dwarka More Metro Station And Opposite Metro Pillar Number 789"}
+{"contact1":"+(91)-11-33089200","name":" Om Education","address":"   B 1/5, First Floor, Sector 50, Noida - 201307, Near Noida City Centre, Central Market"}
+{"contact1":"+(91)-11-33632041","name":" Moon Rise Classes","address":"   B 2/195, Paschim Vihar, Delhi - 110063, Near Doon Public School"}
+{"contact1":"+(91)-11-33055724","name":" Rap Solutions","address":"   B 2/23, Basement, Safdarjung Enclave, Delhi - 110029"}
+{"contact1":"+(91)-11-33089650","name":" Ipec Academy","address":"   B 2/254, Paschim Vihar, Delhi - 110063, Near Government Co Ed Senior Secondary School"}
+{"contact1":"+(91)-11-33076228","name":" Sri Balaji Institute","address":"   B 222, Second Floor, Shish Ram Complex, Main Market, Badarpur, Delhi - 110044, Opposite Barat Ghar"}
+{"contact1":"+(91)-11-33089173","name":" Kgyan Institute","address":"   B 23 A, Gaurav Deep Heights, Sector 62, Noida - 201309, Near Fortis Hospital"}
+{"contact1":"+(91)-11-33081799","name":" New Education Academy","address":"   B 246, 2nd Floor, North Ex Mall, Rohini Sector 9, Delhi - 110085"}
+{"contact1":"+(91)-11-39545406","name":" Abhyas Institute","address":"   B 3, Shopping Center, Main Road, Tagore Garden, Delhi - 110027, Opposite Canara Bank"}
+{"contact1":"+(91)-11-39519762","name":" Saraswati Educational Consultancy","address":"   B 4/300, 2nd Floor, Main Road, Rohini Sector 8, Delhi - 110085, Opposite Central School"}
+{"contact1":"+(91)-11-39519548","name":" Vidhya Coaching Centre","address":"   B 486 Second Floor, C R Park, Delhi - 110019"}
+{"contact1":"+(91)-11-33981457","name":" Nakshatra Tutorials","address":"   B 5/148, Rohini Sector 7, Delhi - 110085, Near Rohini East Metro Station & Opposite Sports King Showroom"}
+{"contact1":"+(91)-11-33438077","name":" Unison Classes","address":"   B 54 Main Vyapar Kendra Market Sushant Lok Phase 1, Gurgaon, Gurgaon - 122001"}
+{"contact1":"+(91)-11-33633964","name":" Deep Institute","address":"   B 84, Sector 50, Noida - 201307, Near Central Market"}
+{"contact1":"+(91)-11-33631457","name":" Sarthak Institute Of Commerce","address":"   B 9, Block B Market, Vivek Vihar, Delhi - 110095"}
+{"contact1":"+(91)-11-33067007","name":" Bright Professional Academy","address":"   B 91,Dayanand Colony, Lajpat Nagar 4, Delhi - 110024, Behind Mother Dairy 041"}
+{"contact1":"+(91)-11-33433138","name":" Umhesha Classes","address":"   B 973, Tigri, Delhi - 110062"}
+{"contact1":"+(91)-11-33069108","name":" Prudent Tutorial","address":"   B Block, Noida Sector 92, Noida - 201301"}
+{"contact1":"+(91)-11-33827686","name":" Paathshala Academy Of Professional Studies","address":"   B-1/3, Jwala Heri Market Road, Paschim Vihar, Delhi - 110063, Above Icici Bank"}
+{"contact1":"+(91)-11-33436733","name":" Turning Point","address":"   B-1/30, Malviya Nagar, Delhi - 110017"}
+{"contact1":"+(91)-11-49055656","name":" Step To Success Tutorials","address":"   B-118, Basement, Kalkaji, Delhi - 110019, Main road"}
+{"contact1":"+(91)-120-2703724","name":" Sanskar The Co Educational School","address":"   B-14, B S Road, Ghaziabad, Ghaziabad - 201010, Industrial Area,Adjoining R T O"}
+{"contact1":"+(91)-11-45108787","name":" Career Launcher India Ltd","address":"   B-2, 3rd Floor, Mayur Vihar Phase 1, Delhi - 110091, Acharya Niketan"}
+{"contact1":"+(91)-9811041719","name":" Prime Academy","address":"   B-2,Acharya Niketan, Mayur Vihar Phase 1, Delhi - 110091, Nr Bansal Sweets"}
+{"contact1":"+(91)-11-32003200","name":" E D U Station","address":"   B-2/2, Janakpuri, Delhi - 110058"}
+{"contact1":"+(91)-11-33082743","name":" Madhav Home Tuition","address":"   B-230, Prashant Vihar, Rohini, Delhi - 110085, Near CRPF School"}
+{"contact1":"+(91)-11-65671188","name":" Swastik Academy","address":"   B-29, Third Floor,entry from backside, B- Block, Kalkaji, Delhi - 110019, Near kandy"}
+{"contact1":"+(91)-11-47511477","name":" JMS Academy","address":"   B-55, Main Road, Derawal Nagar, Delhi - 110009, Opposite Satyam Medical Centre"}
+{"contact1":"+(91)-11-33428466","name":" Odin Intellect Pvt Ltd","address":"   B-6, Lower Ground Floor, Cabin No 8, Kalkaji, Delhi - 110019, Near Aggarwal Bikaneri Sweets"}
+{"contact1":"+(91)-9891677921","name":" Vidhya Sagar coaching institute","address":"   B-7/153, Rohini, Delhi - 110085, Near muskaan appartment"}
+{"contact1":"+(91)-11-42425136","name":" Rahul Academy","address":"   B-9, 1st Flr, Vivek Vihar, Delhi - 110095, Near WATER TANK"}
+{"contact1":"+(91)-11-33088187","name":" ICC Tutorials","address":"   B/1, 25 And 26, Part 2, Model Town, Delhi - 110009"}
+{"contact1":"+(91)-9818899419","name":" Gaurav Tandon''s Academy","address":"   BFH-57, Monday Market Road, Shalimar Bagh West, Delhi - 110088, Near Jaspal Kaur Public School"}
+{"contact1":"+(91)-11-27483918","name":" Kosmos","address":"   Bd-88, Shalimar Bagh, Delhi - 110088"}
+{"contact1":"+(91)-11-33496207","name":" Amrita Global Institute","address":"   Bhagwan Sahya Complex, Sector 15, Noida - 201301, Above Central Bank"}
+{"contact1":"+(91)-11-33084187","name":" I Max Academy","address":"   Block 9/110, Second Floor, Ramesh Nagar, Delhi - 110015, Near Hanuman Mandir"}
+{"contact1":"+(91)-11-33630647","name":" S2V Institute Of Studies","address":"   Building No 10, Second Floor, Old Patparganj Road, Shivpuri-Chandar Nagar, Delhi - 110051, Above Dominos Geeta Colony"}
+{"contact1":"+(91)-11-65877293","name":" Swastik Academy","address":"   Building No-14, 1st Floor, Central Market, Ashok Vihar 1, Delhi - 110052, Above Khurana Diagnose Centre"}
+{"contact1":"+(91)-124-4628400","name":" Fiitjee Limited","address":"   Building Number- 128, Sector 44, Gurgaon - 122003, Institutional Area, Near J & K Bank"}
+{"contact1":"+(91)-11-25888777","name":" Wadhwa College","address":"   Building-15/24, Ground Floor, West Patel Nagar, Delhi - 110008, Near Patel Park"}
+{"contact1":"+(91)-11-33413010","name":" Law Prep","address":"   C 1011, Sushant Lok Phase 1, Gurgaon - 122002, Near Vyapar Kendra"}
+{"contact1":"+(91)-11-39511359","name":" Shrivastav Study Circle","address":"   C 126 second Floor ,Double Story, Ramesh Nagar, Delhi - 110015, Near Ramesh Nagar Metro Station Gate No 5"}
+{"contact1":"+(91)-11-33742978","name":" Revision Classes India","address":"   C 138, Dayanand Colony, Gurdwara Road, Lajpat Nagar 4, Delhi - 110024, Near Sapna Cinema Traffic Signal"}
+{"contact1":"+(91)-11-39519409","name":" Kapoor Coaching Academy","address":"   C 147, Basement, Lajpat Nagar 2, Delhi - 110024, Near Central Market"}
+{"contact1":"+(91)-11-33452925","name":" Excellence Academy Of Success","address":"   C 1505, Basement, Sushant Lok Phase 1, Gurgaon - 122002, Near Vyapar Kendra"}
+{"contact1":"+(91)-11-33492873","name":" Bhandari Academy","address":"   C 31, Block C, Street Number 6, Vinod Nagar West, Delhi - 110092, Opposite Saraswati Kunj Apartment"}
+{"contact1":"+(91)-11-33084073","name":" Vandana Institutes","address":"   C 32, Lane no 4, Mahendru Enclave, Delhi - 110033, Near vardhman plaza"}
+{"contact1":"+(91)-11-33634987","name":" Parivartan Institute","address":"   C 348 2Nd Flor Sec 7, Dwarka, Delhi - 110075, Nr Ramphal chowk"}
+{"contact1":"+(91)-11-33085303","name":" Readers Academy","address":"   C 38, Yadu Apartment, Shalimar Garden Extention 2, Ghaziabad - 201005, Near Ocean Plaza And Sahibabad"}
+{"contact1":"+(91)-11-33074098","name":" Turning Point","address":"   C 404, 1st Floor, Palam Extention, Ramphal Chowk, Dwarka Sector 7, Delhi - 110077"}
+{"contact1":"+(91)-11-33722958","name":" Chinar Education Pvt Ltd","address":"   C 404, Main Ramphal Chowk, Dwarka Sector 7, Delhi - 110077, Near Vishal Mega Mart"}
+{"contact1":"+(91)-11-33077314","name":" Turning Point","address":"   C 5, 3rd Floor, Vishal Enclave, Rajouri Garden, Delhi - 110027, Adjoining Kukreja Hospital"}
+{"contact1":"+(91)-11-33428141","name":" Stepping Stone Academy","address":"   C 595, Pvr Road, Vikaspuri, Delhi - 110018, Near C Block Gurdwara"}
+{"contact1":"+(91)-11-33498839","name":" Bansal Coaching Center","address":"   C 6/113, 1st Floor, Janta Flats, Sector 31, Noida - 201301"}
+{"contact1":"+(91)-11-33829108","name":" Thinklab Study Solution","address":"   C 6/18, Lawrence Road, Main Market, Keshav Puram, Delhi - 110035, Opposite C 7"}
+{"contact1":"+(91)-11-33743220","name":" Academy Of Rankers","address":"   C 7/5, Yamuna Vihar, Delhi - 110053, Opposite Punjabi Restaurant"}
+{"contact1":"+(91)-11-33637380","name":" Tips For Career","address":"   C 9/30, Second Floor, Rohini Sector 7, Delhi - 110085, Opposite Metro Pillar Number 401"}
+{"contact1":"+(91)-11-33436598","name":" The Nalanda Classes","address":"   C 9/8, First Floor, Rohini Sector 7, Delhi - 110085, Near East Metro Station Pillar No 396"}
+{"contact1":"+(91)-11-33725919","name":" College Of Professional Education","address":"   C,O.p.e Building Barwala Road, Rohini, Delhi - 110085, Main Bus Stand Begumpur,Maharaja Agresen Engineering College, Begumpur Village"}
+{"contact1":"+(91)-11-33058769","name":" Shiksharjan An Institute of Physics","address":"   C- 6, Sector 48, Noida - 201303, Opposite Green Valley Academy"}
+{"contact1":"+(91)-11-33067254","name":" A K Coaching Centre","address":"   C-129, Hari Nagar, Delhi - 110064"}
+{"contact1":"+(91)-11-33085452","name":" Excel Classes","address":"   C-13, Dayanand Colony-Lajpat Nagar, Delhi - 110024, Opposite M C D school"}
+{"contact1":"+(91)-11-33416770","name":" Achievers Educational Services","address":"   C-183, Surya Nagar, Ghaziabad - 201011, Near Deep Memorial School"}
+{"contact1":"+(91)-11-33063893","name":" Pankaj Class Of Commerce","address":"   C-2/6, Community Centre, Pragati Market, Ashok Vihar, Delhi - 110052, Near Presidium School"}
+{"contact1":"+(91)-11-42424623","name":" Neeraj Study Centre","address":"   C-328, Vivek Vihar, Delhi - 110095, Block-C, Near Vivekanand Mahila College"}
+{"contact1":"+(91)-9410615221","name":" Paramount coachings","address":"   C-45, Sector-11 main road, Sector 11, Noida - 201301, Near Sahara"}
+{"contact1":"+(91)-11-33638753","name":" My Private Tutor.Com","address":"   C-540, New Ashok Nagar, New Ashok Nagar, Delhi - 110096"}
+{"contact1":"+(91)-11-39518434","name":" Young Talent Tuition Bureau","address":"   C-6 , Basement, Ring Road, Rajouri Garden, Delhi - 110027, Opp Marble Mkt"}
+{"contact1":"+(91)-9711627832","name":" Byjus classes","address":"   C-8,2nd floor, Main najafgarh road, Janakpuri, Delhi - 110058, New Krishna park"}
+{"contact1":"+(91)-11-33416292","name":" JBS Study Circle","address":"   C-9, Aggarwal Plaza, Vasundhara Sector 13, Ghaziabad - 201012, Opposite Jaipuria School"}
+{"contact1":"+(91)-8527492319","name":" Gurukul Institute of Mgmt & technology","address":"   C-9/7 Second Floor, Main Road , Rohini Sector 7, Delhi - 110085, Near Rohini East Metro"}
+{"contact1":"+(91)-11-39513575","name":" Centre For Professional Development","address":"   C-9/8, Rohini Sector 7, Delhi - 110085, Near Rohini East Metro Station, Opposite Metro Pillor No-397"}
+{"contact1":"+(91)-11-33490730","name":" Origin Academy","address":"   C9/14, Third Floor, Rohini Sector 7, Delhi - 110085, Opposite Metro Pillar Number 399"}
+{"contact1":"+(91)-11-39544994","name":" Mittal Maths Classes","address":"   CSC 5, First Floor, Shop Number 9, Rohini Sector 9, Delhi - 110085, Near N K Bagodia School"}
+{"contact1":"+(91)-11-33041990","name":" Hsb Institute For Higher Education","address":"   Cb-81 D, Dda Flat, Hari Nagar, Delhi - 110064, Near Mcl Public School"}
+{"contact1":"+(91)-11-33631260","name":" Naveen Choudhary Classes","address":"   Classic Competent Academy, D 15/29, Rohini Sector 3, Delhi - 110085, Near Ayodhya Chowk"}
+{"contact1":"+(91)-11-33064903","name":" Teachwell Institute Pvt Ltd (Best In Delhi)","address":"   Corporate Office,15/4 A, Double Storey, First Floor, Prem Nagar, Tilak Nagar, Delhi - 110018, Opposite Metro Station Gate Number 4"}
+{"contact1":"+(91)-11-33727180","name":" Takshila Institute","address":"   D 11/154, 1st Floor, Rohini Sector 8, Delhi - 110085, Opposite Metro Pillar Number 389"}
+{"contact1":"+(91)-11-33069764","name":" Right Way To Success","address":"   D 12/25-26, 2nd Floor, Rohini Sector 8, Delhi - 110085, Near Rohini East Metro Station"}
+{"contact1":"+(91)-11-33412142","name":" Right Tutorials","address":"   D 13, Amar Colony, Lajpat Nagar, Delhi - 110024, Near Iskon Temple Road"}
+{"contact1":"+(91)-11-39545169","name":" Sai Success Point","address":"   D 13/131, Rohini Sector 7, Delhi - 110085, Near Sai Baba Mandir"}
+{"contact1":"+(91)-11-33825904","name":" SSC JE Coaching Locus Classes","address":"   D 197/9, C R Road, Laxmi Nagar, Delhi - 110092, Near Laxminagar Metro Gate Number 5"}
+{"contact1":"+(91)-11-33493770","name":" YVS Institute","address":"   D 223, Third Floor, Laxmi Chamber, Vikas Marg, Laxmi Nagar, Delhi - 110092, Above Aditya Raj Jewellers, Near Laxmi Nagar Metro Station Gate Number 5"}
+{"contact1":"+(91)-11-33068083","name":" Kids Play School","address":"   D 27, Sector 1 Complex, Imt Manesar, Gurgaon - 122052, Near Amul Booth"}
+{"contact1":"+(91)-11-33828536","name":" Maa Sharda","address":"   D 47, Hazara Park, Gali Number 5, Chandar Nagar, Delhi - 110051, Behind Government School"}
+{"contact1":"+(91)-11-33829039","name":" Prakash Tuition Centre","address":"   D 607, 1st Floor, Vinod Nagar West, Delhi - 110092, Near Ras Vihar Appartment"}
+{"contact1":"+(91)-11-39549423","name":" Florence Education & Training Institute","address":"   D 61 South Extension Part 1, Mcd Community Centre, Ndse, Delhi - 110049, Near Bengali Sweets & Near Kotla Mubarakar Pur"}
+{"contact1":"+(91)-11-33055271","name":" Karnataka State Open University","address":"   D 61, Bengali Sweets Road, South Extension 1, Delhi - 110049, Near Kotla Mubarak Pur Mcd Community Centre"}
+{"contact1":"+(91)-11-33439555","name":" Krishna Central Academy","address":"   D 62, NDSE, Delhi - 110049, Near Bengali Sweets"}
+{"contact1":"+(91)-11-39514034","name":" Chanakya Coaching","address":"   D 769, Basement, C R Park, Delhi - 110019, Near Dr Nirmal And Near Fish Market Number 2"}
+{"contact1":"+(91)-11-33069551","name":" Rudraksh International Institute & Professional Studies","address":"   D 784/B, Street Number 20, Bhajan Pura, Delhi - 110053, Near Jankalyan School Road"}
+{"contact1":"+(91)-11-33744772","name":" IIMC","address":"   D 87, Kamla Nagar, Delhi - 110007, Near Shakti Nagar Chowk"}
+{"contact1":"+(91)-11-33075154","name":" BSP Brilliants Study Point","address":"   D 9, B K Dutt Colony, Lodhi Road, Delhi - 110003, Near Safdarjung Airport"}
+{"contact1":"+(91)-11-42785135","name":" Ashmeet Singh Classes.","address":"   D-151-A , Vikas Marg , Laxmi Nagar, Delhi - 110092, Opposite Laxmi Nagar Metro Station"}
+{"contact1":"+(91)-11-33723650","name":" Dhingra Education Bureau","address":"   D-87 A, Kirti Nagar, Delhi - 110015, Near Geeta Bhawan"}
+{"contact1":"+(91)-11-33491352","name":" Competent Tutors Bureau","address":"   DA 315, Seesh Mehal Appartment, Shalimar Bagh, Delhi - 110088, Near Haiderpur Hospital"}
+{"contact1":"+(91)-11-25285927","name":" Bhatnagar Institute","address":"   Door Number-Gh-14/1089, Paschim Vihar, Delhi - 110063, Near Dda Market"}
+{"contact1":"+(91)-11-33077717","name":" Solution Buffet A One Stop","address":"   Dwarka Sector 12, Delhi - 110078"}
+{"contact1":"+(91)-9663796058","name":" ThinkVidya Learning Pvt. Lts","address":"   Dwarka, Delhi - 110075"}
+{"contact1":"+(91)-11-33426201","name":" The Study Point","address":"   E 1/12, Malviya Nagar, Delhi - 110017"}
+{"contact1":"+(91)-11-33493679","name":" Tech Tutorials","address":"   E 11, Rajouri Garden, Delhi - 110027, Near Main Market Lane"}
+{"contact1":"+(91)-11-33067846","name":" CA Amit Sharma Class","address":"   E 117, Main Kanjhawala Road, Krishna Vihar, Delhi - 110086, Near Laxmi Dairy"}
+{"contact1":"+(91)-11-33637538","name":" Gurudaksha Academy","address":"   E 132, Basement, Kalkaji Main Road, Kalkaji, Delhi - 110019, Front Lane Of Andhra Bank"}
+{"contact1":"+(91)-11-33065123","name":" Gen X Tutorials","address":"   E 2/27, Gali Number 1, Shastri Nagar (N), Delhi - 110052, Near Shastri Nagar Metro Station"}
+{"contact1":"+(91)-11-33428578","name":" Shiksha Academy","address":"   E 2/3, Main Market, Malviya Nagar, Delhi - 110017, Opposite Shani Mandir"}
+{"contact1":"+(91)-11-33416253","name":" Dreamview Academy","address":"   E 21 / 235, Rohini Sector 3, Delhi - 110085, Near Jaipur Golden Hospital"}
+{"contact1":"+(91)-11-33089037","name":" Guru Classes","address":"   E 350, Ramesh Nagar, Delhi - 110015, Behind Post Office, Near Ramesh Nagar Metro Station"}
+{"contact1":"+(91)-11-33634579","name":" Sharma Classes","address":"   E 82, Main Road, Shastri Nagar (n), Delhi - 110052, Beside PNB Bank & Metro Pillar Number 174"}
+{"contact1":"+(91)-11-33490130","name":" Tech Tutorials","address":"   E-11, Rajouri Garden, Delhi - 110027, Near Main Market Lane"}
+{"contact1":"+(91)-11-23840444","name":" Bright College Regd.","address":"   E-153, Kamla Nagar, Delhi - 110007, Near Amitabh Banquet"}
+{"contact1":"+(91)-11-33633066","name":" Rani Coaching Centre","address":"   E-238, Street No 17 E, Sadh Nagar-palam Colony, Delhi - 110045"}
+{"contact1":"+(91)-11-41008069","name":" Naini Kakkars Study Centre","address":"   E-277, Basement, Main Gk 2 Colony Road, Greater Kailash 2, Delhi - 110048, Near Medicine.Com & M Block Market"}
+{"contact1":"+(91)-11-33722589","name":" The Infinite Tutorial","address":"   E-3, 2nd Floor, J Block Main Mkt, Saket, Delhi - 110017, Near Amity International School"}
+{"contact1":"+(91)-11-33416834","name":" Rama Coaching Center","address":"   E-67, Super Sine Chowk, East Vinod Nagar, Delhi - 110091"}
+{"contact1":"+(91)-11-41684238","name":" Bobby Sir","address":"   E-72 (Lower Ground Floor), Lajpat Nagar 2, Lajpat Nagar 2, Delhi - 110024, Near Central Market"}
+{"contact1":"+(91)-11-33089208","name":" Langma International School of Languages","address":"   E-78, South Extension 1, Delhi - 110049, Near Bengali Sweets"}
+{"contact1":"+(91)-11-33826163","name":" Urvashi Tutorials","address":"   E-78,1st Floor, West Patel Nagar, Delhi - 110008"}
+{"contact1":"+(91)-11-33437836","name":" Career Mentor","address":"   Exalt Tower, 1st Floor, Main Najafgarh Road, Uttam Nagar, Delhi - 110059, Opposite Uttam Nagar West Metro Station Gate No 1"}
+{"contact1":"+(91)-11-45620850","name":" Focus IIT - JEE Academy","address":"   F - 638, Ist Floor Near Ramphal Chowk, Sector 7 Dwarka, Dwarka Sector 7, Delhi - 110077"}
+{"contact1":"+(91)-11-33634062","name":" S K Tutors Bureau","address":"   F 10, 2nd Floor, Shopping Centre, Mansarover Garden, Delhi - 110015"}
+{"contact1":"+(91)-11-33982878","name":" AMSC Institute","address":"   F 14/30, Rohini Sector 15, Delhi - 110089, Near Vidya Bharthi Public School"}
+{"contact1":"+(91)-11-33826169","name":" E Axis International Banking College","address":"   F 20, Basement, Preet Vihar, Delhi - 110092, Near Pnb And Metro Station Gate Number 4"}
+{"contact1":"+(91)-9990423252","name":" Prithiviraj Academy","address":"   F 24/170, First Floor, Rohini Sector 7, Delhi - 110085, Near Rohini West Metro Station And Ayodhya Chowk"}
+{"contact1":"+(91)-11-33087681","name":" Differential Academy","address":"   F 651, Greater Noida, Noida - 201310, Near Labour Chowk, Delta 1"}
+{"contact1":"+(91)-11-33069486","name":" Learners Zone","address":"   F 93, 2nd Floor, Hanuman Market, Munirka, Delhi - 110067, Behind Obc Bank"}
+{"contact1":"+(91)-11-43573065","name":" Narayana IIT Academy","address":"   F-10, 1st Floor, Main road , Dilshad Garden, Delhi - 110095, Above HDFC Bank"}
+{"contact1":"+(91)-8860867822","name":" Achievers academy","address":"   F-166-167, Laxmi Nagar, Delhi - 110092, Near mangal chowk"}
+{"contact1":"+(91)-11-33427565","name":" NRD International","address":"   F-34, Ground Floor, Saket, Delhi - 110017"}
+{"contact1":"+(91)-11-25053337","name":" PRABHA TUITION CENTER","address":"   FLAT NO 40 ROSE APARTMENT, SECTOR 18B DWARKA, Dwarka Sector 18b, Delhi - 110078, NEAR PINK APPARTMENT"}
+{"contact1":"+(91)-11-33080128","name":" Oasis Coaching Center","address":"   Flat Namber 102, Tower 1, River Height, Main Road, Raj Nagar Extension, Ghaziabad - 201017"}
+{"contact1":"+(91)-11-33085772","name":" Teachers Point","address":"   Flat No 179, Hewo Appartments, Sector 16 A, Faridabad, Faridabad - 121001, Near Huda Guest House"}
+{"contact1":"+(91)-11-33725099","name":" Spectrum An Educational Platform","address":"   Flat No 73,Pocket 16,Adarsh Apartment, Dwarka Sector 3, Delhi - 110078"}
+{"contact1":"+(91)-11-33080789","name":" Future Care","address":"   Flat Number 1405,Mahagun Mension, Kala Pathar Road, Indirapuram, Ghaziabad - 201014"}
+{"contact1":"+(91)-11-39545505","name":" Daksh Academy","address":"   Flat Number 49, Dwarakadheesh Appartment, Pocket 2, Dwarka Sector 12, Delhi - 110078, Behind Aaushman Hospital"}
+{"contact1":"+(91)-11-33058146","name":" Delhi Top Guru","address":"   Flat Number 6, Staff Quarter, Hansraj College, Kamla Nagar, Delhi - 110007, Opposite Kamla Nagar Market"}
+{"contact1":"+(91)-11-33416168","name":" Vidya Kunj Classes","address":"   G 10, Sector 22, Noida - 201301, Near To Shiv Mandir"}
+{"contact1":"+(91)-11-33430734","name":" KGCPL Classes","address":"   G 14, Gaurav Apartment, Saket, Delhi - 110017, Near Malivaya Nagar Metro Station And Above Yes Bank ATM"}
+{"contact1":"+(91)-11-39518639","name":" Excellent Tutors Centre","address":"   G 1b, 1st Floor, Kalkaji, Delhi - 110019, Near Desh Bandhu College"}
+{"contact1":"+(91)-11-33498651","name":" Just Solutions Institute","address":"   G 241, Delta 2, Noida - 201310, Near Ascent School"}
+{"contact1":"+(91)-11-33077756","name":" Infinite School Of Learning","address":"   G 29, 33, Lajpat Nagar 2, Delhi - 110024, Near Central Market"}
+{"contact1":"+(91)-11-33414553","name":" Home Tutions","address":"   G 6, House Number 207, Ganga Apartment, Vasant Kunj, Delhi - 110070"}
+{"contact1":"+(91)-11-33081550","name":" U. R. B. Academy","address":"   G-26/404, Rohini Sector 3, Delhi - 110085, Opp gym park"}
+{"contact1":"+(91)-11-33431071","name":" Advanced Study Point","address":"   G-40 Palam Extention, Dwarka Sector 7, Delhi - 110077, Near Gold Gym"}
+{"contact1":"+(91)-11-33742403","name":" Dimensions","address":"   G-6, Ground Floor, Saket, Delhi - 110017, Near Gurudwara"}
+{"contact1":"+(91)-11-33980746","name":" AJS Institute Of Languages","address":"   G-8/30, Opp. SFS Flats, Rohini Sector 11, Delhi - 110085, Near BPIT"}
+{"contact1":"+(91)-11-33636422","name":" CallForTutor.net","address":"   GH 2/59B, Ankur Apartments, Paschim Vihar, Delhi - 110063, Near Neo Convent School"}
+{"contact1":"+(91)-11-33453813","name":" CA Yash Choudhary Classes","address":"   Gc 56, Aditya Gold Crest, Vaibhav Khand-indirapuram, Ghaziabad - 201014"}
+{"contact1":"+(91)-11-33745256","name":" Lakshya Educational Consultancy","address":"   Gd 141, Erose Garden, Dayalbag Road, Pul Prahladpur, Delhi - 110044, Near Surajkund International School"}
+{"contact1":"+(91)-11-33988468","name":" Future Vision","address":"   Gd 145, Vishakha Enclave, Upper Ground Floor, Pitampura, Delhi - 110034, Opposite Adharshila Vidyapeeth"}
+{"contact1":"+(91)-11-28541543","name":" S S Coaching Centre","address":"   Gg-1/75 B, Pvr Road, Vikaspuri, Delhi - 110018, Oppsoite Bata Showroom"}
+{"contact1":"+(91)-11-33055387","name":" Signature Tution Service","address":"   Greater Kailash, Delhi - 110048, South Delhi"}
+{"contact1":"+(91)-11-33088607","name":" Complete Coaching Classes","address":"   Green Which C 904, Omaxe grand, Noida Sector 93, Noida - 201301"}
+{"contact1":"+(91)-11-33496803","name":" I Vidwath","address":"   Ground Floor 2, Plot Number 209, Niti Khand 1, Mangal Chowk, Indirapuram, Ghaziabad - 201014"}
+{"contact1":"+(91)-11-33434628","name":" Shikshaya Namah","address":"   Gurgaon Sector 45, Gurgaon - 122003, Opposite Ramada Hotel"}
+{"contact1":"+(91)-11-33062891","name":" Shri Sai Nath Tutorials","address":"   Gurgaon, Gurgaon - 122001"}
+{"contact1":"+(91)-11-33075808","name":" Adhyayan Classes & Home Tutors","address":"   H 23, Kirti Nagar, Delhi - 110015, Opposite NDPL Office"}
+{"contact1":"+(91)-11-33721079","name":" Prem Sagar Tutors","address":"   H 30, Second Floor, Sai Baba Road, Laxmi Nagar, Delhi - 110092"}
+{"contact1":"+(91)-11-33074103","name":" Turning Point","address":"   H 36b, Kalkaji, Delhi - 110019"}
+{"contact1":"+(91)-11-33428776","name":" Edututor","address":"   H-113, Malviya Nagar, Delhi - 110017"}
+{"contact1":"+(91)-11-33631214","name":" Parivartan Institute","address":"   H-2,1st Floor, Model Town, Delhi - 110009, Near ICICI Bank"}
+{"contact1":"+(91)-11-33495780","name":" Azhar''S Virtuoso Coaching Center","address":"   H-51, Deepak vihar, Deepak Vihar-Khora Colony, Delhi - 201309"}
+{"contact1":"+(91)-11-33083674","name":" Georgians Academy For Professional Studies","address":"   H-973,II Floor,Sector 7 Dwarka, Ramphal Chowk, Dwarka, Delhi - 110075, Near School Of Aeronautics"}
+{"contact1":"+(91)-11-33983402","name":" Mastermind Education Point","address":"   HP 22 A, DDA Flat, Pitampura, Delhi - 110034, Near Sachdeva School And Gopal Mandir"}
+{"contact1":"+(91)-11-27860899","name":" Teachwell Institute Pvt Ltd","address":"   House No 150,Kapil Vihar, Main Road, Pitampura, Delhi - 110034, Opposite Gulab Sweet"}
+{"contact1":"+(91)-11-33638452","name":" D Potential Kidz","address":"   House No 7, Pocket 52, Lower Ground Floor, C R Park, Delhi - 110019, Near Chandralok Cinema"}
+{"contact1":"+(91)-11-33829712","name":" Vibgyor Study Centre","address":"   House No 858, Block I, Palam Vihar, Gurgaon - 122017, Near Chiranjeev Bharti School"}
+{"contact1":"+(91)-11-33079645","name":" Excel Tutorials","address":"   House No-212, Sector 28, Faridabad - 121008, Near Sector-28 Market"}
+{"contact1":"+(91)-11-33429587","name":" Ideal Campus Tutorial","address":"   House No.7 Block F, Charmwood Village, Faridabad, Faridabad - 121001, Near Manav Rachna International School And Opposite Southend Apartment"}
+{"contact1":"+(91)-11-33065016","name":" M R Academy","address":"   House Number 1070, Maruti Vihar, Sushant Lok Phase 1, Gurgaon - 122002, Near Sahara Mall"}
+{"contact1":"+(91)-11-33427226","name":" Little Gems Institute","address":"   House Number 122, Sector-21d, Faridabad - 121012, Near Vibal Hospital"}
+{"contact1":"+(91)-11-33416856","name":" Edu Vision Academy","address":"   House Number 13, Lotus Enclave, Pitampura, Delhi - 110034, Near Bal Bharti School"}
+{"contact1":"+(91)-11-33433889","name":" Sai Ram Tuition Bureau","address":"   House Number 13, Radhey Puri Extension 1, Krishna Nagar, Delhi - 110051"}
+{"contact1":"+(91)-11-33829064","name":" Vidyaa.In","address":"   House Number 155, Duplex, Sector 82, Noida - 201304"}
+{"contact1":"+(91)-11-33986641","name":" Institute Of Chemical Science","address":"   House Number 2273, Basement, Kingsway Camp, Delhi - 110009, Near Gtb Nagar Metro Station, Behind North Campus Delhi University"}
+{"contact1":"+(91)-11-33496064","name":" Target School Of Language English Speaking Course","address":"   House Number 28/6, Second And Third Floor, Ashok Nagar, Delhi - 110018, Behind Tilak Nagar Police Station"}
+{"contact1":"+(91)-11-33633956","name":" Nestor Academy","address":"   House Number 29, Krishna Market, Jhilmil Colony, Delhi - 110095, Near By Verma Jewellers"}
+{"contact1":"+(91)-11-33086566","name":" Educational Point","address":"   House Number 59, Main Road, Azadpur, Delhi - 110033, Near Gol Chakkar, Rameshwar Nagar"}
+{"contact1":"+(91)-11-33745640","name":" Shreya Coaching Centre","address":"   House Number 63, A Block, Kamla Nagar, Delhi - 110007, Near Ladlee Saree Centre"}
+{"contact1":"+(91)-11-33744897","name":" Achievers Academy","address":"   House Number 6391, Block Number 7, Street Number 3, Dev Nagar, Delhi - 110005, Near Kiker Wala Chowk"}
+{"contact1":"+(91)-11-33069297","name":" Lakshya Coaching Classes","address":"   House Number 7054, Beri Wala Bagh, Pahar Ganj, Delhi - 110055, Near Choti Masjid"}
+{"contact1":"+(91)-11-33078039","name":" Super Master 99","address":"   House Number 90, Krishna Nagar, Lane Number 4, Safdarjung Enclave, Delhi - 110029, Near St Marry School"}
+{"contact1":"+(91)-11-33061336","name":" Boon Classes","address":"   House Number Rz/79, Vaishali Colony, Gali Number 2, Pankha Road, Delhi - 110045, Opposite Dabri Telephone Exchange"}
+{"contact1":"+(91)-9650622918","name":" Brilliant Tutorial Classes","address":"   House Number-244/44a, Gali Number- 6, Mandawali, Delhi - 110092, Near Talab Chowk"}
+{"contact1":"+(91)-11-33075640","name":" S S Academy","address":"   I - 78, 1st Floor, Lajpat Nagar 2, Delhi - 110024"}
+{"contact1":"+(91)-11-33491778","name":" F E Classes","address":"   Indirapuram Institue Of Higher Studies, FE Chowk, Indirapuram, Ghaziabad - 201014, Near Nyay Khand-1"}
+{"contact1":"+(91)-11-39510951","name":" Nishchay Academy","address":"   J 3 A, Vikaspuri, Delhi - 110018, Near Axis Bank"}
+{"contact1":"+(91)-11-33986808","name":" Vision To Education","address":"   J 3/186, Nehru Market, Rajouri Garden, Delhi - 110027, Near Gurudwara"}
+{"contact1":"+(91)-11-41062030","name":" Learning Point","address":"   J-3/186, Rajouri Garden, Delhi - 110027, Near Nehru Market, Near Gurudwara"}
+{"contact1":"+(91)-8826571998","name":" Agarwal study centre","address":"   J290 first floor, Pvr road, Saket, Delhi - 110017, Near union bank"}
+{"contact1":"+(91)-11-33076793","name":" Swot Academy","address":"   Jain Road, Near Water Tank, Dwarka More, Delhi - 110059, Near Metro Pillar Number 786"}
+{"contact1":"+(91)-11-33723431","name":" Unique Tutorials","address":"   Jg-2/193 & 205, Vikaspuri, Delhi - 110018, Nr Himgiri Appartment,J Blk"}
+{"contact1":"+(91)-11-33439734","name":" Study Solutions","address":"   K 13, 22/8, Basement, Shakti Nagar, Main Road, Malka Ganj, Delhi - 110007, Near Narayan Mandir"}
+{"contact1":"+(91)-11-33988703","name":" Career Avenues","address":"   K 2, Green Park, Delhi - 110016, Near Green Park Main Market"}
+{"contact1":"+(91)-9555619922","name":" Elite Academy Of Education","address":"   K G 1/419, Vikaspuri, Delhi - 110018"}
+{"contact1":"+(91)-11-26273400","name":" Scholar","address":"   K-1/3, Main road, C R Park, DELHI - 110019, Near Dash Bandhu College"}
+{"contact1":"+(91)-11-33063373","name":" Vidhyamantra House Of Learning","address":"   K-113, A Krishna Park Ext, Tilak Nagar, Delhi - 110018, Near Pastry Palace"}
+{"contact1":"+(91)-11-33431648","name":" Jee Crazy","address":"   K-59, Patel Nagar West, Delhi - 110008"}
+{"contact1":"+(91)-11-33429260","name":" Elite Academy Of Education","address":"   KG 1/419, PVR Road, Vikaspuri, Delhi - 110018, Near PVR Cinema"}
+{"contact1":"+(91)-11-33135627","name":" K Sharma College","address":"   L 155, Shastri Nagar (n), Delhi - 110052, Near Nag Mandir"}
+{"contact1":"+(91)-11-33496829","name":" Topper Tution","address":"   L 87B, Saket, Delhi - 110017, Near Amity International School"}
+{"contact1":"+(91)-11-26682867","name":" Dvr Study Centre","address":"   Malviya Nagar, Delhi - 110017, Blk-35,Bh Shri Ram Sweets"}
+{"contact1":"+(91)-11-33492333","name":" Ashoka Academy Of Maths","address":"   Modi Complex, Building Number 2, Ashok Vihar, Delhi - 110052, Opposite Satyawati College"}
+{"contact1":"+(91)-11-33826849","name":" Cat Guroo","address":"   NM -23, 2nd Floor, Sector 14, Old Dlf Colony, Gurgaon - 122001, Opposite Ganpati Honda, Near Gold Gym"}
+{"contact1":"+(91)-11-45509045","name":" Sachdeva New PT College Study Centre","address":"   Near Pitampura Metro, Pitampura, Delhi - 110034, Near Madhuban Chowk, Shiva Market"}
+{"contact1":"+(91)-11-33493934","name":" Alpha Tutorials","address":"   New Railway Road, Gurgaon, Gurgaon - 122001, Opposite Ahuja Eye Hospital"}
+{"contact1":"+(91)-11-33630203","name":" Sanskriti Smart Education","address":"   No 995/38, Dda Flats, Main Road, Kalkaji, Delhi - 110019, Near Kalka Public School Road"}
+{"contact1":"+(91)-11-25848070","name":" Sachdeva New Pt College","address":"   No. 526, Industrial Estate, Patparganj, Shakarpur, Delhi - 110092, Near Life Care Hospital"}
+{"contact1":"+(91)-11-26800036","name":" Mishra Coaching Center","address":"   No. B-71, Ambedkar Colony, Chattarpur, Delhi - 110074, Near Chattur Mandi"}
+{"contact1":"+(91)-11-33067156","name":" U Can Education","address":"   Number 216/C-12, 2nd Floor, Gurunanak Pura, Radhu Palace Road, Laxmi Nagar, Delhi - 110092, Opposite To LIC Building"}
+{"contact1":"+(91)-124-2300272","name":" Paramount Coaching Centre Pvt Ltd","address":"   Office No - 399/1,1st Floor,Group 99 Building, Old Gurgaon Road, Gurgaon, Gurgaon - 122001, Near Old Gurgaon Bus Stop, Sheetla Hospital, 800 Meter West Of Bus Stop Towards Railway Station"}
+{"contact1":"+(91)-11-39547333","name":" CFA Academy Of Career Development","address":"   Office No C-28, Basement, Sector 52, Noida - 201307, Near Gate No-3"}
+{"contact1":"+(91)-11-33085257","name":" BST Infocom","address":"   Office Number 1798, Second Floor, South Extension 1, Delhi - 110049, Opposite Building D 42"}
+{"contact1":"+(91)-11-33635602","name":" Arya Coaching Centre","address":"   Office Number 20, Ground Floor, Sant Nagar, East Of Kailash, Delhi - 110065, Near Iskon Temple"}
+{"contact1":"+(91)-11-33056926","name":" D K Classes","address":"   Office Number 31, 3rd Floor, Saraswati Vihar Market Complex, Housing Board, Chakkarpur, Gurgaon - 122002, Near Mg Road"}
+{"contact1":"+(91)-11-66575000","name":" Fiitjee Ltd","address":"   Plot No 23, Main Rohtak Road, Paschim Vihar, Delhi - 110063, Opposite Metro Pillar No 194"}
+{"contact1":"+(91)-11-65578963","name":" S K Tutorial","address":"   Plot No-52, Pocket-16, Rohini Sector 24, Delhi - 110085, Near Rajdham Resturant"}
+{"contact1":"+(91)-11-33059216","name":" Sigma","address":"   Plot Number 02, Bagdola, Dwarka Sector 8, Delhi - 110077, Opposite CRPF Camp"}
+{"contact1":"+(91)-11-33638409","name":" Success Door","address":"   Plot Number 1, Old Palam Road, Kakrola, Delhi - 110078, Near Dwarka Sector 13, Red Lightshiv Park"}
+{"contact1":"+(91)-11-33079165","name":" Lal Bahadur Shastri Training Institute","address":"   Plot Number 10, 1st Floor, Sector 22, Noida - 201301, Opposite Rajkiya Inter College And Above Asian Paints"}
+{"contact1":"+(91)-11-33439612","name":" New Style Commerce Academy","address":"   Plot Number 11, Industrial Area, Sector 15a, Faridabad - 121007"}
+{"contact1":"+(91)-11-33066116","name":" Nourine Institute","address":"   Plot Number 124 P, Sector 51, Gurgaon - 122002, Near Artemis Hospital"}
+{"contact1":"+(91)-11-33426712","name":" IBT Institute Pvt Ltd","address":"   Plot Number 266, Second Floor, Pocket H 17, Rohini Sector 7, Delhi - 110085, Opposite Metro Pillar Number 425"}
+{"contact1":"+(91)-11-33743901","name":" Career Park","address":"   Plot Number 3 And 4, B Block, Main Road, Dwarka Sector 8, Delhi - 110077, Near Mother Dairy"}
+{"contact1":"+(91)-120-4130999","name":" Education Solution","address":"   Plot Number 420, Vaishali Sector 5, Ghaziabad - 201010, Near Shopprix Mall"}
+{"contact1":"+(91)-11-33069815","name":" Career Mate","address":"   Plot Number 5, 2nd Floor, Tokas Complex, Amberhai Extension, Dwarka Sector 19, Delhi - 110075, Near Vardhman Mall"}
+{"contact1":"+(91)-11-33980798","name":" Edu Plus","address":"   Plot Number 602, Street Number 26, Jaffrabad, Delhi - 110053, Near Kamaal Nurshing Home"}
+{"contact1":"+(91)-11-33076777","name":" N Exsus Academy","address":"   Plot Number 8041, Kharia Street, Roshanara Road, Delhi - 110007"}
+{"contact1":"+(91)-11-33428133","name":" ABS Group Of Institutions","address":"   Plot Number 86, Sector 12 A, Dwarka Sector 12, Delhi - 110078"}
+{"contact1":"+(91)-120-6597576","name":" Sunrise Education Society","address":"   Plot Number 880/1, Nyay Khand 2-Indirapuram, Ghaziabad - 201014, Opposite Rajhanse Plaza And Near Aditya Mall"}
+{"contact1":"+(91)-11-33495245","name":" MAC Academic Centre","address":"   Plot Number C/22 B, Lower Ground Floor, Main Road, Kalkaji, Delhi - 110019, Near First Gol Chakkar, Near Government Girls Senior Secondary School"}
+{"contact1":"+(91)-11-27942210","name":" Manas Vidya Niketan","address":"   Plot Number D-13/60, SAI Baba Chowk, Rohini, Delhi - 110085, Near Saibaba Temple"}
+{"contact1":"+(91)-11-33076370","name":" Globus Academy Of Professional Studies","address":"   Plot Number-855/LG, Niti Khand-1, Main Road, Indirapuram, Ghaziabad - 201014, Opposite Orange County"}
+{"contact1":"+(91)-11-33061908","name":" Illuminati Institute","address":"   Q 101, DLF New Town Heights, Gurgaon, Gurgaon - 122001, Sector 90"}
+{"contact1":"+(91)-11-33745901","name":" Sai Tutorial","address":"   R-8/55, Raj Nagar, Ghaziabad - 201002, Opposite Dr Sahai Clinic"}
+{"contact1":"+(91)-11-33041297","name":" JMD Educrafters","address":"   RTF 16, First Floor, Shipra Suncity, Royal Tower Market, Indirapuram, Ghaziabad - 201014, Near CISF Camp"}
+{"contact1":"+(91)-11-39548144","name":" Shivansh Educare","address":"   Rn 36, B Block, Sector 62, Noida - 201309, Behind Fortis Hospital"}
+{"contact1":"+(91)-11-33063465","name":" Dada Dev Coaching Academy","address":"   Rz-45/c Palam Colony, Old Mehrauli Road, Raj Nagar Ii-palam Colony, Delhi - 110045, Near Palam Fatak"}
+{"contact1":"+(91)-11-33083241","name":" Institute Of Commerce","address":"   S 528, School Block, Shakarpur, Delhi - 110092, Opposite Metro Station"}
+{"contact1":"+(91)-11-39545997","name":" Study Center","address":"   S-209, 2nd Flr, Arjun Plaza,P No-7, Dwarka Sector 5, Delhi - 110075"}
+{"contact1":"+(91)-11-33413600","name":" Poojas Velocity Institute Pvt Ltd","address":"   SCO 6, 2nd Floor, Sector 16, Faridabad City, Faridabad - 121002, Above HDFC Bank"}
+{"contact1":"+(91)-9811092548","name":" EDU MENTORS","address":"   SF-108, city plaza, sector-4, Guar City -1, Noida Extension, Noida - 201305, near golchakkar"}
+{"contact1":"+(91)-11-39517604","name":" Sachdeva CAD & Engg Institute","address":"   Sachdeva Bhawan, Phowora Chowk, Sector 14, Gurgaon - 122001, Next To City Mark Hotel, Near City Bus Stand, Behind Punjab National Bank"}
+{"contact1":"+(91)-11-33491743","name":" Eco Zone Institute","address":"   Sco 21 And 22, New Colony Mor, New Colony, Gurgaon - 122001, Near Red Light"}
+{"contact1":"+(91)-11-33058792","name":" Career Matters","address":"   Sco 7 And 8, Second Floor, Old Delhi Road, Sector 14, Gurgaon - 122001, Opposite Mohanlal Sons"}
+{"contact1":"+(91)-129-4041900","name":" Pace IIT & Medical","address":"   Sco-33, basement, sector-16 market, Sector 16, Faridabad - 121002, Near Milan Sweet House"}
+{"contact1":"+(91)-11-33436542","name":" Turning Point Institute Pvt Ltd","address":"   Second And Third Floor, Ram House, Paschim Vihar, Delhi - 110063, Above Kumar Sweet And Near Jawala Heri Market"}
+{"contact1":"+(91)-11-33069213","name":" Zenith Academy","address":"   Second Floor, Buddha Tower, Main Road, Sector 22, Noida - 201301, Near Shivam Market"}
+{"contact1":"+(91)-11-33639689","name":" Saraswati Chemistry Point Also In Pitampura","address":"   Sector 3 & 7 Dividing Road, M2K Rohini Road, Rohini Sector 7, Delhi - 110085, Opposite Axis Bank And Ayodhya Chowk Bus Stand"}
+{"contact1":"+(91)-11-33826403","name":" The Enablers Computer & Coaching Institute","address":"   Sector 4/5 Circle, Gurgaon, Gurgaon - 122001, Near Mata Chinta Purni Mandir"}
+{"contact1":"+(91)-11-33436166","name":" C D Infotech & Tutorials","address":"   Sector 48, C D Chowk, Sohna Road, Gurgaon - 122001, Near Scortish Mall"}
+{"contact1":"+(91)-11-33081841","name":" Anam Tutor Source","address":"   Sector 50, Noida - 201307"}
+{"contact1":"+(91)-11-33058864","name":" Host Computer Education","address":"   Sf 6 , second floor, Shiv murti complex, Mahipalpur Extension, Delhi - 110037, Old rangpuri road"}
+{"contact1":"+(91)-11-33453285","name":" Education point economics guru","address":"   Sf10, central market, shipra suncity, Indirapuram, Ghaziabad - 201014"}
+{"contact1":"+(91)-9717650547","name":" Siksha education centre","address":"   Sharma market, ESIC link road, Sector 22, Noida - 201301"}
+{"contact1":"+(91)-9958216925","name":" Accounts Academy","address":"   Shop No - B-39, Vishwas Park, Uttam Nagar, Delhi - 110059, Opposite Morning Store"}
+{"contact1":"+(91)-11-33077681","name":" Race Of Advance Computing Education Pvt Ltd","address":"   Shop No 11/1a, Third Floor, Main Road, Tilak Nagar, Delhi - 110018, Opposite Metro Pillar Number 523 And Near Tilak Nagar Metro Station"}
+{"contact1":"+(91)-11-33088498","name":" Par Excellence Academy","address":"   Shop No A 1/209 Sushant Lok Phase 2, Sector 55, Gurgaon - 122003"}
+{"contact1":"+(91)-11-26123311","name":" Aggarwal Study Centre","address":"   Shop No B-11/8034, Vasant Kunj, Delhi - 110070, Opposite Vasant Arcade Market"}
+{"contact1":"+(91)-11-33054089","name":" The Education Hub","address":"   Shop No-F147/2, Shibli Road Shaheen Bagh, Jasola Vihar, Delhi - 110025, Near Transformer"}
+{"contact1":"+(91)-11-33082513","name":" Jawahar Institute","address":"   Shop Number 1 G, Khatra Number 171, Durga Park, Main Nasirpur Road, Sagarpur, Delhi - 110046, Near Solanki Public School"}
+{"contact1":"+(91)-11-33067683","name":" Angels Commerce Classes","address":"   Shop Number 25, Jupiter Dda Market, Vikaspuri, Delhi - 110018, Near Jupiter Apartment"}
+{"contact1":"+(91)-11-33428981","name":" Study Time Coaching Centre","address":"   Shop Number 289, Pocket 8, Prince Public School Road, Rohini Sector 24, Delhi - 110085, Near Star Mall"}
+{"contact1":"+(91)-11-33068056","name":" Goodluck Academy","address":"   Shop Number 4, Main Road, Shalimar Bagh, Delhi - 110088, Near Saini Dharamsala"}
+{"contact1":"+(91)-11-33085224","name":" M S Coaching Centre","address":"   Shop Number 4, Second Floor, C4e Market, Janakpuri, Delhi - 110058"}
+{"contact1":"+(91)-11-33089389","name":" Beacon Classes","address":"   Shop Number 8 ,First Floor, C Block Market, Sector 41, Noida - 201303, Near Evergreen Sweets"}
+{"contact1":"+(91)-11-33426338","name":" Sakshi Classes","address":"   Shop Number R 12/2, Ramesh Park, Laxmi Nagar, Delhi - 110092"}
+{"contact1":"+(91)-11-32569804","name":" Anand Institute Of Mathematics (Head Office)","address":"   Shop Number-28b/6, Jia Sarai-IIT, Delhi - 110016, Near Punjab National Bank ATM"}
+{"contact1":"+(91)-11-27115455","name":" Sharda College","address":"   Shop no. 34, Central market, Ashok Vihar 1, Delhi - 110052, Near Deep Cinema"}
+{"contact1":"+(91)-11-25881031","name":" Sanjeev Dawar Classes","address":"   Shop no. 5/19, East Patel Nagar, Delhi - 110008, Nr To Patel Nagar Metro Station"}
+{"contact1":"+(91)-9717453953","name":" Career power","address":"   Shop no. 98, Mall road, GTB Nagar, Delhi - 110009, Near GTB metro station"}
+{"contact1":"+(91)-9852805792","name":" PIE AIM Coaching","address":"   Shop no.3,f-6, Main Road, Hauz Khas, Delhi - 110016, Main Market"}
+{"contact1":"+(91)-11-27604723","name":" Sachdeva Pvt. Ltd. College","address":"   Shop number 203, Outram Lines, Kingsway Camp, Delhi - 110009, Near metro station"}
+{"contact1":"+(91)-11-33635924","name":" Pandey Coaching Centre","address":"   T 198, Baljeet Nagar, West Patel Nagar, Delhi - 110008, Near Shadipur Metro Station & Near LAL Mandir"}
+{"contact1":"+(91)-11-33636650","name":" Ipedia Academy","address":"   T-29, Khirki Extention, opposite to G-6 Block, Malviya Nagar, Delhi - 110017, near to CANARA BANK ATM & Vatsalya clinic"}
+{"contact1":"+(91)-9818060016","name":" NGC Institute","address":"   TU-8, 1st Floor, Main Road, Pitampura, Delhi - 110034, Near City Park"}
+{"contact1":"+(91)-11-33416456","name":" Focus On Concept","address":"   Third Floor, Sector 22, Noida - 201301, Opposite Rajkiya Inter College"}
+{"contact1":"+(91)-11-33065406","name":" Amulya Institute","address":"   U 86, Shakarpur, Delhi - 110092, Near Laxmi Nagar Metro Station"}
+{"contact1":"+(91)-11-33825508","name":" Achievers Classes","address":"   U-158, Basement , patel hospital,Vats Cplx, Vikas marg, Shakarpur, Delhi - 110092, Opp Laxmi Ngr Subway, Nr Gate No -4, Lakshmi Ngr Metro Station"}
+{"contact1":"+(91)-7530810666","name":" Immense Education Pvt Ltd","address":"   U-182/A Second Floor, Above Kotek mahindra Bank (Ing Vysa Bank), Shakarpur, Delhi - 110092, Near Metro Pillar Number31"}
+{"contact1":"+(91)-11-22523995","name":" K V College","address":"   U-203, Vikas Marg, Shakarpur, Delhi - 110092, Near Bank Of Baroda"}
+{"contact1":"+(91)-11-33741859","name":" R And R Study Point Pvt Ltd","address":"   Upper Ground Floor 3, Sagar Plaza 1, Plot Number 16, Road Number 44, Pitampura, Delhi - 110034, Near M2K Pitampura And Dominos, Community Centre"}
+{"contact1":"+(91)-11-33059553","name":" Quest Academy","address":"   Vardhman Tower, Shrestha Vihar-Anand Vihar, Delhi - 110092, Savita Vihar Market"}
+{"contact1":"+(91)-9810437008","name":" A To Z Training Institute","address":"   W Z 116, Naraina, Delhi - 110028, Near Mata Mandir"}
+{"contact1":"+(91)-11-33741600","name":" Fundamental Classes","address":"   WZ 1390/8, Pankha Road, Janakpuri D Block, Delhi - 110058, Near Sabka Bazar"}
+{"contact1":"+(91)-11-33820922","name":" Bhardwaj Institute","address":"   WZ 24/01, Plot Number 22,23,24, 2nd Floor, Mukherjee Park, Delhi - 110018, Near Tilak Nagar Police Station"}
+{"contact1":"+(91)-11-33429593","name":" Bpa Services","address":"   WZ 44 A, Shastri Nagar (n), Delhi - 110052, Near Canara Bank"}
+{"contact1":"+(91)-11-28525024","name":" Shree Balaji Institute","address":"   Wz 1390/8, Pankha Road,D Block, Janakpuri, Delhi - 110058, Opposite Sagar Pur Red Light"}
+{"contact1":"+(91)-11-33742588","name":" Nirvana Classes","address":"   Wz 1672, 1st Floor, Nangal Raya, Delhi - 110046, Opposite Mother Dairy, Near Janak Setu"}
+{"contact1":"+(91)-11-33745745","name":" Empirical Career Institute","address":"   Wz 258, Inderpuri, Delhi - 110012, Above Axis Bank ATM"}
+{"contact1":"+(91)-11-33075546","name":" Ace Academy","address":"   Wz 368, 1st Floor, Lane Number 20, 20, Shiv Nagar-Janakpuri, Delhi - 110058, Opposite Mother Dairy"}
+{"contact1":"+(91)-11-33076674","name":" Coaching Motto Academy","address":"   Wz 61 A/1, Ground Floor, Lane Number 15, Pankha Road, Vashisht Park, Delhi - 110046, Near Hari Nagar Police Station"}
+{"contact1":"+(91)-9716571117","name":" British English French Academy","address":"   Wz-1090 D, Ramesh Nagar, Delhi - 110015, Near Metro Station, Bali Nagar"}
+{"contact1":"+(91)-9911191336","name":" Mec Education College","address":"   Wz-46, B/3, Mukherjee Park, 1st Floor, Chokhandi Road, Tilak Nagar, Delhi - 110018"}
+{"contact1":"+(91)-11-33075406","name":" Gen Next Coaching Center","address":"   Wz-4a 2nd Floor Shardapuri, Ramesh Nagar, Delhi - 110015, Near Chacha Nehru Park"}
+{"contact1":"+(91)-11-33415938","name":" Students Academy","address":"   Y-1/35, Budh Vihar Phase 1, Budh Vihar, Delhi - 110086, Near Friday Market Road & Behind Brahm Shakti Hospital"}
+{"contact1":"+(91)-11-33064937","name":" Aman Tutorials","address":"   Yf 20, Shiva Enclave A 4, Paschim Vihar, Delhi - 110063, Near Balaji Hospital"}
+{"contact1":"+(91)-11-33069514","name":" Success One Tutorial","address":"   flat no-b-607,katyayani appt,plot no-8, sec-6, Dwarka, Delhi - 110075, behind sec-6 fire station"}
+{"contact1":"+(91)-129-4174582","name":" Fiitjee Limited","address":"   gahlod bhawan,sec-15 a , Sector 15a, Faridabad - 121007, Near Vidya Mandir School, Ajrounda Chowk, Sector-15a Market"}
+{"contact1":"+(91)-11-33061006","name":" Vardhman Maths academy","address":"   house no-29/2, Second Floor, Nangia Park, Main Road, Shakti Nagar, Delhi - 110007, Near Rama Tent House"}
+{"contact1":"+(91)-11-33076088","name":" Regime Coaching Institute","address":"   house number 699, sector 23, NIT, New Industrial Township 1- NIT, Faridabad - 121001, Near Dr Narender nursing home"}
+{"contact1":"+(91)-11-33825626","name":" Foundation Academy","address":"   k 3/106a, DLF phase 2, Mg Road, Gurgaon - 122002, Infront Of Sahara Mall, Near Samrat Bakery"}
+{"contact1":"+(91)-11-33428217","name":" SFAT","address":"   off. 276 A, Masjid moth, South Extension 2, Delhi - 110049, leelaram market"}
+{"contact1":"+(91)-9582423180","name":" national school of banking","address":"   old rajender nagar market 77, 2nd flor, old rajender nagar market, Old Rajender Nagar, Delhi - 110060, backiside of axis bank"}
+{"address":"   1, Kohat Enclave-Pitampura, Delhi - 110034","name":" Brilliant Tutorials"}
+{"address":"   201,Vikas Surya Plaza, Rohini, Delhi - 110085, Pkt-F26,Sec-7","name":" J S R Chemistry House"}
+{"contact1":"1800114242","address":"   New Delhi, Delhi - 110001","name":" Fiitjee Ltd (Customer Care)"}
